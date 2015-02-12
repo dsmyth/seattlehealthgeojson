@@ -12,12 +12,14 @@
       "type": "Feature",
       "id": "THAI TOM",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/06/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "THAI TOM",
         "Address": "4543 UNIVERSITY WAY NE",
-        "Name": "THAI TOM"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/06/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -31,12 +33,14 @@
       "type": "Feature",
       "id": "CHINA FIRST",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/29/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "CHINA FIRST",
         "Address": "4237 UNIVERSITY WAY NE",
-        "Name": "CHINA FIRST"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/29/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -50,12 +54,14 @@
       "type": "Feature",
       "id": "THAI 65",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/19/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "THAI 65",
         "Address": "4214-A UNIVERSITY WAY NE",
-        "Name": "THAI 65"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/19/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -69,12 +75,14 @@
       "type": "Feature",
       "id": "BLUE C SUSHI",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/05/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "BLUE C SUSHI",
         "Address": "4601 26TH AVE NE 104",
-        "Name": "BLUE C SUSHI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/05/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -88,12 +96,14 @@
       "type": "Feature",
       "id": "PORTAGE BAY CAFE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/23/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PORTAGE BAY CAFE",
         "Address": "4130 ROOSEVELT WAY NE",
-        "Name": "PORTAGE BAY CAFE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/23/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -107,12 +117,14 @@
       "type": "Feature",
       "id": "GUANACO'S TACOS",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/11/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "GUANACO'S TACOS",
         "Address": "4106 BROOKLYN AVE NE",
-        "Name": "GUANACO'S TACOS"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/11/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -126,12 +138,14 @@
       "type": "Feature",
       "id": "CEDARS BROOKLYN DELI",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/13/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "CEDARS BROOKLYN DELI",
         "Address": "4759 BROOKLYN AVE NE",
-        "Name": "CEDARS BROOKLYN DELI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/13/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -145,12 +159,14 @@
       "type": "Feature",
       "id": "SHALIMAR",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/19/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SHALIMAR",
         "Address": "4214 UNIVERSITY WAY NE",
-        "Name": "SHALIMAR"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/19/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -164,12 +180,14 @@
       "type": "Feature",
       "id": "CHI PSI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/11/2014",
-        "Score": "N/A",
         "Result": "Not Ready For Inspection",
+        "marker-color": "#808080",
+        "Name": "CHI PSI",
         "Address": "4600 22ND AVE NE",
-        "Name": "CHI PSI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/11/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -183,12 +201,14 @@
       "type": "Feature",
       "id": "JEWEL OF INDIA INDIAN CUISINE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/24/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "JEWEL OF INDIA INDIAN CUISINE",
         "Address": "4735 UNIVERSITY WAY NE",
-        "Name": "JEWEL OF INDIA INDIAN CUISINE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/24/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -202,12 +222,14 @@
       "type": "Feature",
       "id": "ARAYA'S PLACE",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/21/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "ARAYA'S PLACE",
         "Address": "5240 UNIVERSITY WAY NE #A",
-        "Name": "ARAYA'S PLACE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/21/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -221,12 +243,14 @@
       "type": "Feature",
       "id": "DJAN'S DINING",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/11/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "DJAN'S DINING",
         "Address": "264 NE 45TH ST",
-        "Name": "DJAN'S DINING"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/11/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -240,12 +264,14 @@
       "type": "Feature",
       "id": "LITTLE THAI RESTAURANT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/12/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "LITTLE THAI RESTAURANT",
         "Address": "4142 BROOKLYN AVE NE #105",
-        "Name": "LITTLE THAI RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/12/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -259,12 +285,14 @@
       "type": "Feature",
       "id": "NASAI TERIYAKI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/01/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "NASAI TERIYAKI",
         "Address": "4305 1/2 UNIVERSITY WAY NE",
-        "Name": "NASAI TERIYAKI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/01/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -278,12 +306,14 @@
       "type": "Feature",
       "id": "ELEMENTAL KITCHEN",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/30/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "ELEMENTAL KITCHEN",
         "Address": "2630 NE UNIVERSITY VILLAGE",
-        "Name": "ELEMENTAL KITCHEN"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/30/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -297,12 +327,14 @@
       "type": "Feature",
       "id": "PHI DELTA THETA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/13/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "PHI DELTA THETA",
         "Address": "2111 NE 47TH ST",
-        "Name": "PHI DELTA THETA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/13/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -316,12 +348,14 @@
       "type": "Feature",
       "id": "THAIGER ROOM",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/29/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "THAIGER ROOM",
         "Address": "4228 UNIVERSITY WAY NE",
-        "Name": "THAIGER ROOM"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/29/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -335,12 +369,14 @@
       "type": "Feature",
       "id": "IVAR'S SALMON HOUSE",
       "properties": {
-        "Description": "Seating > 250 - Risk Category III",
-        "Inspected": "01/08/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "IVAR'S SALMON HOUSE",
         "Address": "401 NE NORTHLAKE WAY",
-        "Name": "IVAR'S SALMON HOUSE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/08/2015",
+        "Description": "Seating > 250 - Risk Category III"
       }
     },
     {
@@ -354,12 +390,14 @@
       "type": "Feature",
       "id": "RED PEPPER",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "08/18/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "RED PEPPER",
         "Address": "4545 UNIVERSITY WAY NE",
-        "Name": "RED PEPPER"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/18/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -373,12 +411,14 @@
       "type": "Feature",
       "id": "SOMTAM THAI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/24/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "SOMTAM THAI",
         "Address": "4736 UNIVERSITY WAY NE",
-        "Name": "SOMTAM THAI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/24/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -392,12 +432,14 @@
       "type": "Feature",
       "id": "TASTE OF INDIA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/24/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "TASTE OF INDIA",
         "Address": "5517 ROOSEVELT WAY NE",
-        "Name": "TASTE OF INDIA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/24/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -411,12 +453,14 @@
       "type": "Feature",
       "id": "KRUA THAI FAMILY KITCHEN",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "11/26/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "KRUA THAI FAMILY KITCHEN",
         "Address": "2515 NE 55TH ST",
-        "Name": "KRUA THAI FAMILY KITCHEN"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/26/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -430,12 +474,14 @@
       "type": "Feature",
       "id": "NOODLE NATION",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/26/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "NOODLE NATION",
         "Address": "4232 UNIVERSITY WAY NE",
-        "Name": "NOODLE NATION"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/26/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -449,12 +495,14 @@
       "type": "Feature",
       "id": "SAIGON DELI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/22/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SAIGON DELI",
         "Address": "4142 BROOKLYN AVE NE",
-        "Name": "SAIGON DELI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/22/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -468,12 +516,14 @@
       "type": "Feature",
       "id": "SHULTZYS",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/09/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "SHULTZYS",
         "Address": "4114 UNIVERSITY WAY NE",
-        "Name": "SHULTZYS"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/09/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -487,12 +537,14 @@
       "type": "Feature",
       "id": "THANH VI VIETNAMESE CUISINE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/29/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "THANH VI VIETNAMESE CUISINE",
         "Address": "4226 UNIVERSITY WAY NE",
-        "Name": "THANH VI VIETNAMESE CUISINE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/29/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -506,12 +558,14 @@
       "type": "Feature",
       "id": "U:DON FRESH",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "08/05/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "U:DON FRESH",
         "Address": "4515 UNIVERSITY WAY NE",
-        "Name": "U:DON FRESH"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/05/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -525,12 +579,14 @@
       "type": "Feature",
       "id": "BANH MI UNWRAPPED",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/24/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "BANH MI UNWRAPPED",
         "Address": "4725 UNIVERSITY WAY NE",
-        "Name": "BANH MI UNWRAPPED"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/24/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -544,12 +600,14 @@
       "type": "Feature",
       "id": "FRANK'S OYSTER HOUSE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/27/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "FRANK'S OYSTER HOUSE",
         "Address": "2614 NE 55TH ST",
-        "Name": "FRANK'S OYSTER HOUSE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/27/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -563,12 +621,14 @@
       "type": "Feature",
       "id": "SAFEWAY INC #488",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "01/20/2015",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "SAFEWAY INC #488",
         "Address": "3020 NE 45TH ST",
-        "Name": "SAFEWAY INC #488"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/20/2015",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -582,12 +642,14 @@
       "type": "Feature",
       "id": "YUMMY BITES",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/12/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "YUMMY BITES",
         "Address": "4131 UNIVERSITY WAY NE",
-        "Name": "YUMMY BITES"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/12/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -601,12 +663,14 @@
       "type": "Feature",
       "id": "PHI KAPPA SIGMA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/12/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "PHI KAPPA SIGMA",
         "Address": "4711 17TH AVE NE",
-        "Name": "PHI KAPPA SIGMA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/12/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -620,12 +684,14 @@
       "type": "Feature",
       "id": "GARAM MASALA AND SPICES",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "09/11/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "GARAM MASALA AND SPICES",
         "Address": "4537 UNIVERSITY WAY NE",
-        "Name": "GARAM MASALA AND SPICES"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "09/11/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -639,12 +705,14 @@
       "type": "Feature",
       "id": "PHO TRAN",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/29/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PHO TRAN",
         "Address": "4213 UNIVERSITY WAY NE",
-        "Name": "PHO TRAN"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/29/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -658,12 +726,14 @@
       "type": "Feature",
       "id": "BOOM NOODLE",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/05/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "BOOM NOODLE",
         "Address": "2675 NE VILLAGE LN BLDG 11",
-        "Name": "BOOM NOODLE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/05/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -677,12 +747,14 @@
       "type": "Feature",
       "id": "ALADDIN FALAFEL CORNER",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "08/06/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "ALADDIN FALAFEL CORNER",
         "Address": "4541 UNIVERSITY WAY NE",
-        "Name": "ALADDIN FALAFEL CORNER"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/06/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -696,12 +768,14 @@
       "type": "Feature",
       "id": "ALPHA XI DELTA",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/12/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "ALPHA XI DELTA",
         "Address": "1616 NE 50TH ST",
-        "Name": "ALPHA XI DELTA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/12/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -715,12 +789,14 @@
       "type": "Feature",
       "id": "BURGERMASTER",
       "properties": {
-        "Description": "Seating 151-250 - Risk Category III",
-        "Inspected": "01/14/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "BURGERMASTER",
         "Address": "3040 NE 45TH ST",
-        "Name": "BURGERMASTER"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/14/2015",
+        "Description": "Seating 151-250 - Risk Category III"
       }
     },
     {
@@ -734,12 +810,14 @@
       "type": "Feature",
       "id": "COSTAS RESTAURANT",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/06/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "COSTAS RESTAURANT",
         "Address": "4559 UNIVERSITY WAY NE",
-        "Name": "COSTAS RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/06/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -753,12 +831,14 @@
       "type": "Feature",
       "id": "FLOWERS  RESTAURANT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/12/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "FLOWERS  RESTAURANT",
         "Address": "4247 UNIVERSITY WAY NE",
-        "Name": "FLOWERS  RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/12/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -772,12 +852,14 @@
       "type": "Feature",
       "id": "ICHIRO JAPANESE RESTAURANT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/01/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "ICHIRO JAPANESE RESTAURANT",
         "Address": "4124 UNIVERSITY WAY NE",
-        "Name": "ICHIRO JAPANESE RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/01/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -791,12 +873,14 @@
       "type": "Feature",
       "id": "MARLAI RESTAURANT",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "11/18/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "MARLAI RESTAURANT",
         "Address": "3719 NE 45TH ST",
-        "Name": "MARLAI RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/18/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -810,12 +894,14 @@
       "type": "Feature",
       "id": "MEE SUM INC",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/19/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "MEE SUM INC",
         "Address": "4343 UNIVERSITY WAY NE",
-        "Name": "MEE SUM INC"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/19/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -829,12 +915,14 @@
       "type": "Feature",
       "id": "MILANO PIZZA & PASTA",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "07/31/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "MILANO PIZZA & PASTA",
         "Address": "405 NE 45TH ST",
-        "Name": "MILANO PIZZA & PASTA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "07/31/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -848,12 +936,14 @@
       "type": "Feature",
       "id": "PHI KAPPA PSI FRATERNITY",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/30/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "PHI KAPPA PSI FRATERNITY",
         "Address": "2120 NE 47TH ST",
-        "Name": "PHI KAPPA PSI FRATERNITY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/30/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -867,12 +957,14 @@
       "type": "Feature",
       "id": "PI KAPPA PHI FRATERNITY",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/06/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "PI KAPPA PHI FRATERNITY",
         "Address": "4530 17TH AVE NE",
-        "Name": "PI KAPPA PHI FRATERNITY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/06/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -886,12 +978,14 @@
       "type": "Feature",
       "id": "SIGMA CHI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/21/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "SIGMA CHI",
         "Address": "4505 18TH AVE NE",
-        "Name": "SIGMA CHI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/21/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -905,12 +999,14 @@
       "type": "Feature",
       "id": "YUMMY CAFE, LLC",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/26/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "YUMMY CAFE, LLC",
         "Address": "4008 NE 55TH ST",
-        "Name": "YUMMY CAFE, LLC"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/26/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -924,12 +1020,14 @@
       "type": "Feature",
       "id": "GREEN HOUSE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/11/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "GREEN HOUSE",
         "Address": "4106 BROOKLYN AVE NE #101 A",
-        "Name": "GREEN HOUSE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/11/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -943,12 +1041,14 @@
       "type": "Feature",
       "id": "SANDPOINT GRILL",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "08/25/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SANDPOINT GRILL",
         "Address": "5412 A SANDPOINT WAY NE",
-        "Name": "SANDPOINT GRILL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/25/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -962,12 +1062,14 @@
       "type": "Feature",
       "id": "BURGER AND KABOB HUT",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "01/09/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "BURGER AND KABOB HUT",
         "Address": "4142 UNIVERSITY WAY NE",
-        "Name": "BURGER AND KABOB HUT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/09/2015",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -981,12 +1083,14 @@
       "type": "Feature",
       "id": "UGLY MUG CAFE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/26/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "UGLY MUG CAFE",
         "Address": "1309 NE 43RD ST",
-        "Name": "UGLY MUG CAFE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/26/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1000,12 +1104,14 @@
       "type": "Feature",
       "id": "A PIZZA MART BAR & GRILL INC",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/31/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "A PIZZA MART BAR & GRILL INC",
         "Address": "5240 UNIVERSITY WAY NE STE D",
-        "Name": "A PIZZA MART BAR & GRILL INC"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/31/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -1019,12 +1125,14 @@
       "type": "Feature",
       "id": "AGUA VERDE CAFE",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/06/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "AGUA VERDE CAFE",
         "Address": "1303 NE BOAT ST",
-        "Name": "AGUA VERDE CAFE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/06/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -1038,12 +1146,14 @@
       "type": "Feature",
       "id": "CHIPOTLE MEXICAN GRILL",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/26/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "CHIPOTLE MEXICAN GRILL",
         "Address": "4229 UNIVERSITY WAY NE",
-        "Name": "CHIPOTLE MEXICAN GRILL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/26/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -1057,12 +1167,14 @@
       "type": "Feature",
       "id": "KAI'S BISTRO & LOUNGE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/26/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "KAI'S BISTRO & LOUNGE",
         "Address": "1312 NE 43RD ST",
-        "Name": "KAI'S BISTRO & LOUNGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/26/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1076,12 +1188,14 @@
       "type": "Feature",
       "id": "MILLIONAIRE HOT DOGS",
       "properties": {
-        "Description": "Mobile Food Service - Risk Category I",
-        "Inspected": "12/14/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "MILLIONAIRE HOT DOGS",
         "Address": "4730 UNIVERSITY WAY NE",
-        "Name": "MILLIONAIRE HOT DOGS"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/14/2014",
+        "Description": "Mobile Food Service - Risk Category I"
       }
     },
     {
@@ -1095,12 +1209,14 @@
       "type": "Feature",
       "id": "OASIS",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/10/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "OASIS",
         "Address": "4508 UNIVERSITY WAY NE",
-        "Name": "OASIS"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/10/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1114,12 +1230,14 @@
       "type": "Feature",
       "id": "ORANGE KING",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/22/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "ORANGE KING",
         "Address": "1411 NE 42ND ST",
-        "Name": "ORANGE KING"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/22/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1133,12 +1251,14 @@
       "type": "Feature",
       "id": "RAM RESTAURANT & BIG HORN BREWERY",
       "properties": {
-        "Description": "Seating > 250 - Risk Category III",
-        "Inspected": "01/05/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "RAM RESTAURANT & BIG HORN BREWERY",
         "Address": "2650 NE UNIVERSITY VILLAGE ST",
-        "Name": "RAM RESTAURANT & BIG HORN BREWERY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/05/2015",
+        "Description": "Seating > 250 - Risk Category III"
       }
     },
     {
@@ -1152,12 +1272,14 @@
       "type": "Feature",
       "id": "SUBWAY",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/05/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "SUBWAY",
         "Address": "4336 ROOSEVELT WAY NE #D/E",
-        "Name": "SUBWAY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/05/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1171,12 +1293,14 @@
       "type": "Feature",
       "id": "TRABANT CHAI LOUNGE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/24/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "TRABANT CHAI LOUNGE",
         "Address": "1309 NE 45TH ST",
-        "Name": "TRABANT CHAI LOUNGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/24/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1190,12 +1314,14 @@
       "type": "Feature",
       "id": "YUMBIT",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "11/19/2014",
-        "Score": "0",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "YUMBIT",
         "Address": "4311 UNIVERSITY WAY NE",
-        "Name": "YUMBIT"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "11/19/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -1209,12 +1335,14 @@
       "type": "Feature",
       "id": "MADELEINE BAKERY",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/22/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "MADELEINE BAKERY",
         "Address": "1401 NE 42ND ST",
-        "Name": "MADELEINE BAKERY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/22/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1228,12 +1356,14 @@
       "type": "Feature",
       "id": "MYUNG DONG TOFU RESTAURANT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/17/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "MYUNG DONG TOFU RESTAURANT",
         "Address": "4142 BROOKLYN AVE NE",
-        "Name": "MYUNG DONG TOFU RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/17/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1247,12 +1377,14 @@
       "type": "Feature",
       "id": "SEADLE HOUSE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "08/05/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "SEADLE HOUSE",
         "Address": "4537 UNIVERSITY WAY NE #A",
-        "Name": "SEADLE HOUSE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/05/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1266,12 +1398,14 @@
       "type": "Feature",
       "id": "CHLOE BISTROT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/08/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "CHLOE BISTROT",
         "Address": "3515 NE 45TH ST",
-        "Name": "CHLOE BISTROT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/08/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1285,12 +1419,14 @@
       "type": "Feature",
       "id": "CAFE SOLSTICE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/17/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "CAFE SOLSTICE",
         "Address": "4116 UNIVERSITY WAY NE",
-        "Name": "CAFE SOLSTICE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/17/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1304,12 +1440,14 @@
       "type": "Feature",
       "id": "KATE'S PUB",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/13/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "KATE'S PUB",
         "Address": "309 NE 45TH ST",
-        "Name": "KATE'S PUB"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/13/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1323,12 +1461,14 @@
       "type": "Feature",
       "id": "KU",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/27/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "KU",
         "Address": "5210 UNIVERSITY WAY NE",
-        "Name": "KU"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/27/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1342,12 +1482,14 @@
       "type": "Feature",
       "id": "MEMO'S MEXICAN FOOD RESTAURANT",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/22/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "MEMO'S MEXICAN FOOD RESTAURANT",
         "Address": "4743 UNIVERSITY WAY NE",
-        "Name": "MEMO'S MEXICAN FOOD RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/22/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -1361,12 +1503,14 @@
       "type": "Feature",
       "id": "PHI KAPPA TAU",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/31/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "PHI KAPPA TAU",
         "Address": "1800 NE 47TH ST",
-        "Name": "PHI KAPPA TAU"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/31/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1380,12 +1524,14 @@
       "type": "Feature",
       "id": "PI KAPPA ALPHA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/20/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PI KAPPA ALPHA",
         "Address": "4515 21ST AVE NE",
-        "Name": "PI KAPPA ALPHA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/20/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1399,12 +1545,14 @@
       "type": "Feature",
       "id": "QFC #807-UNIVERSITY VILLAGE",
       "properties": {
-        "Description": "Meat/Sea Food - Risk Category III",
-        "Inspected": "10/22/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "QFC #807-UNIVERSITY VILLAGE",
         "Address": "2746 NE 45TH ST",
-        "Name": "QFC #807-UNIVERSITY VILLAGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/22/2014",
+        "Description": "Meat/Sea Food - Risk Category III"
       }
     },
     {
@@ -1418,12 +1566,14 @@
       "type": "Feature",
       "id": "QUEEN MARY",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "02/04/2015",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "QUEEN MARY",
         "Address": "2912 NE 55TH ST",
-        "Name": "QUEEN MARY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "02/04/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1437,12 +1587,14 @@
       "type": "Feature",
       "id": "ALADDIN GYRO-CERY & DELI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/19/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "ALADDIN GYRO-CERY & DELI",
         "Address": "4139 UNIVERSITY WAY NE",
-        "Name": "ALADDIN GYRO-CERY & DELI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/19/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1456,12 +1608,14 @@
       "type": "Feature",
       "id": "SIGMA PHI EPSILON",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/05/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SIGMA PHI EPSILON",
         "Address": "4637 21ST AVE NE",
-        "Name": "SIGMA PHI EPSILON"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/05/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1475,12 +1629,14 @@
       "type": "Feature",
       "id": "AMAZING THAI CUISINE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/24/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "AMAZING THAI CUISINE",
         "Address": "5210 ROOSEVELT WAY NE #B",
-        "Name": "AMAZING THAI CUISINE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/24/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1494,12 +1650,14 @@
       "type": "Feature",
       "id": "LAMBDA CHI ALPHA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/21/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "LAMBDA CHI ALPHA",
         "Address": "4509 19TH AVE NE",
-        "Name": "LAMBDA CHI ALPHA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/21/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1513,12 +1671,14 @@
       "type": "Feature",
       "id": "EUREKA BURGER",
       "properties": {
-        "Description": "Seating 151-250 - Risk Category III",
-        "Inspected": "01/05/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "EUREKA BURGER",
         "Address": "2623 UNIVERSITY VLG",
-        "Name": "EUREKA BURGER"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/05/2015",
+        "Description": "Seating 151-250 - Risk Category III"
       }
     },
     {
@@ -1532,12 +1692,14 @@
       "type": "Feature",
       "id": "FUSION ULTRA LOUNGE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/17/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "FUSION ULTRA LOUNGE",
         "Address": "722 NE 45TH ST",
-        "Name": "FUSION ULTRA LOUNGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/17/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1551,12 +1713,14 @@
       "type": "Feature",
       "id": "KIDD VALLEY",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/19/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "KIDD VALLEY",
         "Address": "5502 25TH AVE NE",
-        "Name": "KIDD VALLEY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/19/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -1570,12 +1734,14 @@
       "type": "Feature",
       "id": "MONKEY PUB, THE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/13/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "MONKEY PUB, THE",
         "Address": "5303 ROOSEVELT WAY NE",
-        "Name": "MONKEY PUB, THE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/13/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1589,12 +1755,14 @@
       "type": "Feature",
       "id": "PAIR RESTAURANT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/27/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PAIR RESTAURANT",
         "Address": "5501 30TH AVE NE",
-        "Name": "PAIR RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/27/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1608,12 +1776,14 @@
       "type": "Feature",
       "id": "PALLINO PASTARIA #1004",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/31/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PALLINO PASTARIA #1004",
         "Address": "2626 NE 46TH ST",
-        "Name": "PALLINO PASTARIA #1004"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/31/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1627,12 +1797,14 @@
       "type": "Feature",
       "id": "PHO THY THY VIETNAMESE RESTAURANT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/22/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PHO THY THY VIETNAMESE RESTAURANT",
         "Address": "4129 UNIVERSITY WAY NE",
-        "Name": "PHO THY THY VIETNAMESE RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/22/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1646,12 +1818,14 @@
       "type": "Feature",
       "id": "SAFEWAY INC #3091",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/15/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "SAFEWAY INC #3091",
         "Address": "4732 BROOKLYN AVE NE",
-        "Name": "SAFEWAY INC #3091"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/15/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -1665,12 +1839,14 @@
       "type": "Feature",
       "id": "SIGMA KAPPA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/30/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SIGMA KAPPA",
         "Address": "4510 22ND AVE NE",
-        "Name": "SIGMA KAPPA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/30/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1684,12 +1860,14 @@
       "type": "Feature",
       "id": "DISTRICT, THE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "09/25/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "DISTRICT, THE",
         "Address": "4507 BROOKLYN AVE NE",
-        "Name": "DISTRICT, THE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "09/25/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1703,12 +1881,14 @@
       "type": "Feature",
       "id": "WILLIAMS-SONOMA #344",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/17/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "WILLIAMS-SONOMA #344",
         "Address": "2530 NE UNIVERSITY VILLAGE",
-        "Name": "WILLIAMS-SONOMA #344"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/17/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -1722,12 +1902,14 @@
       "type": "Feature",
       "id": "ZETA PSI FRATERNITY",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/30/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "ZETA PSI FRATERNITY",
         "Address": "4703 21ST AVE NE",
-        "Name": "ZETA PSI FRATERNITY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/30/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1741,12 +1923,14 @@
       "type": "Feature",
       "id": "CHACO CANYON ORGANIC CAFE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/14/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "CHACO CANYON ORGANIC CAFE",
         "Address": "4757 12TH AVE NE",
-        "Name": "CHACO CANYON ORGANIC CAFE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/14/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1760,12 +1944,14 @@
       "type": "Feature",
       "id": "KAPPA DELTA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/21/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "KAPPA DELTA",
         "Address": "4524 17TH AVE NE",
-        "Name": "KAPPA DELTA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/21/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1779,12 +1965,14 @@
       "type": "Feature",
       "id": "UNIVERSITY SILVER CLOUD INN",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "02/02/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "UNIVERSITY SILVER CLOUD INN",
         "Address": "5036 25TH AVE NE",
-        "Name": "UNIVERSITY SILVER CLOUD INN"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "02/02/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -1798,12 +1986,14 @@
       "type": "Feature",
       "id": "CEDAR'S RESTAURANT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/23/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "CEDAR'S RESTAURANT",
         "Address": "1319 NE 43RD ST",
-        "Name": "CEDAR'S RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/23/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1817,12 +2007,14 @@
       "type": "Feature",
       "id": "TERIYAKI PLUS",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/04/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "TERIYAKI PLUS",
         "Address": "4336 ROOSEVELT WAY NE #B",
-        "Name": "TERIYAKI PLUS"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/04/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -1836,12 +2028,14 @@
       "type": "Feature",
       "id": "ALPHA SIGMA PHI",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "10/31/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "ALPHA SIGMA PHI",
         "Address": "4554 19TH AVE NE",
-        "Name": "ALPHA SIGMA PHI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/31/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -1855,12 +2049,14 @@
       "type": "Feature",
       "id": "BBQ CHICKEN UW",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "08/18/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "BBQ CHICKEN UW",
         "Address": "4525 UNIVERSITY WAY NE",
-        "Name": "BBQ CHICKEN UW"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/18/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1874,12 +2070,14 @@
       "type": "Feature",
       "id": "FINN MAC COOLS PUB",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "02/05/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "FINN MAC COOLS PUB",
         "Address": "4217 UNIVERSITY WAY NE",
-        "Name": "FINN MAC COOLS PUB"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "02/05/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -1893,12 +2091,14 @@
       "type": "Feature",
       "id": "JAK'S GRILL",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "11/08/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "JAK'S GRILL",
         "Address": "3701 NE 45TH ST",
-        "Name": "JAK'S GRILL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/08/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -1912,12 +2112,14 @@
       "type": "Feature",
       "id": "MY FAVORITE DELI",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/17/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "MY FAVORITE DELI",
         "Address": "1301 NE 45TH ST",
-        "Name": "MY FAVORITE DELI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/17/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -1931,12 +2133,14 @@
       "type": "Feature",
       "id": "PAM'S KITCHEN",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "08/27/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PAM'S KITCHEN",
         "Address": "5000 UNIVERSITY WAY NE",
-        "Name": "PAM'S KITCHEN"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/27/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1950,12 +2154,14 @@
       "type": "Feature",
       "id": "PHO VIETNAM RESTAURANT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/29/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PHO VIETNAM RESTAURANT",
         "Address": "4235 UNIVERSITY WAY NE",
-        "Name": "PHO VIETNAM RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/29/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -1969,12 +2175,14 @@
       "type": "Feature",
       "id": "RISTORANTE DORIA",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/13/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "RISTORANTE DORIA",
         "Address": "4759 ROOSEVELT WAY NE",
-        "Name": "RISTORANTE DORIA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/13/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -1988,12 +2196,14 @@
       "type": "Feature",
       "id": "SUBWAY #35762",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "02/05/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SUBWAY #35762",
         "Address": "4215 UNIVERSITY WAY NE",
-        "Name": "SUBWAY #35762"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "02/05/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2007,12 +2217,14 @@
       "type": "Feature",
       "id": "TAU KAPPA EPSILON FRATERNITY",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/13/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "TAU KAPPA EPSILON FRATERNITY",
         "Address": "4520 21ST AVE NE",
-        "Name": "TAU KAPPA EPSILON FRATERNITY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/13/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2026,12 +2238,14 @@
       "type": "Feature",
       "id": "TEMPERO DO BRASIL",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/06/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "TEMPERO DO BRASIL",
         "Address": "5628 UNIVERSITY WAY NE",
-        "Name": "TEMPERO DO BRASIL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/06/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2045,12 +2259,14 @@
       "type": "Feature",
       "id": "THETA DELTA CHI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/31/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "THETA DELTA CHI",
         "Address": "4532 19TH AVE NE",
-        "Name": "THETA DELTA CHI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/31/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2064,12 +2280,14 @@
       "type": "Feature",
       "id": "TOSHI'S TERIYAKI",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "11/08/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "TOSHI'S TERIYAKI",
         "Address": "3715 NE 45TH ST",
-        "Name": "TOSHI'S TERIYAKI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/08/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -2083,12 +2301,14 @@
       "type": "Feature",
       "id": "ZETA TAU ALPHA",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "11/10/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "ZETA TAU ALPHA",
         "Address": "4731 18TH AVE NE",
-        "Name": "ZETA TAU ALPHA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/10/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2102,12 +2322,14 @@
       "type": "Feature",
       "id": "CAFE RACER ESPRESSO",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/24/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "CAFE RACER ESPRESSO",
         "Address": "5828 ROOSEVELT WAY NE",
-        "Name": "CAFE RACER ESPRESSO"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/24/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2121,12 +2343,14 @@
       "type": "Feature",
       "id": "HENRY'S TAIWAN UW",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/04/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "HENRY'S TAIWAN UW",
         "Address": "4106 BROOKLYN AVE NE",
-        "Name": "HENRY'S TAIWAN UW"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/04/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2140,12 +2364,14 @@
       "type": "Feature",
       "id": "QFC #807-UNIVERSITY VILLAGE",
       "properties": {
-        "Description": "Meat/Sea Food - Risk Category III",
-        "Inspected": "10/22/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "QFC #807-UNIVERSITY VILLAGE",
         "Address": "2746 NE 45TH ST",
-        "Name": "QFC #807-UNIVERSITY VILLAGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/22/2014",
+        "Description": "Meat/Sea Food - Risk Category III"
       }
     },
     {
@@ -2159,12 +2385,14 @@
       "type": "Feature",
       "id": "UNIVERSITY PIZZERIA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "08/05/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "UNIVERSITY PIZZERIA",
         "Address": "4529 UNIVERSITY WAY NE",
-        "Name": "UNIVERSITY PIZZERIA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/05/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2178,12 +2406,14 @@
       "type": "Feature",
       "id": "UZ ZOKA",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "09/23/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "UZ ZOKA",
         "Address": "2901 NE BLAKELEY ST",
-        "Name": "UZ ZOKA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "09/23/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2197,12 +2427,14 @@
       "type": "Feature",
       "id": "DANTE'S INC",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "11/24/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "DANTE'S INC",
         "Address": "5300 ROOSEVELT WAY NE",
-        "Name": "DANTE'S INC"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/24/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2216,12 +2448,14 @@
       "type": "Feature",
       "id": "EARL'S ON THE AVE",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/29/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "EARL'S ON THE AVE",
         "Address": "4333 UNIVERSITY WAY NE",
-        "Name": "EARL'S ON THE AVE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/29/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2235,12 +2469,14 @@
       "type": "Feature",
       "id": "PASTA & CO,  LLC",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "08/04/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "PASTA & CO,  LLC",
         "Address": "2640 NE UNIVERSITY VILLAGE ST",
-        "Name": "PASTA & CO,  LLC"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/04/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -2254,12 +2490,14 @@
       "type": "Feature",
       "id": "PIATTI",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "10/15/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PIATTI",
         "Address": "2695 NE VILLAGE LN",
-        "Name": "PIATTI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/15/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2273,12 +2511,14 @@
       "type": "Feature",
       "id": "QFC #807-UNIVERSITY VILLAGE",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/31/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "QFC #807-UNIVERSITY VILLAGE",
         "Address": "2746 NE 45TH ST",
-        "Name": "QFC #807-UNIVERSITY VILLAGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/31/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -2292,12 +2532,14 @@
       "type": "Feature",
       "id": "TANDOOR RESTAURANT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "08/14/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "TANDOOR RESTAURANT",
         "Address": "5024 UNIVERSITY WAY NE",
-        "Name": "TANDOOR RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/14/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2311,12 +2553,14 @@
       "type": "Feature",
       "id": "A PIZZA MART",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "07/29/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "A PIZZA MART",
         "Address": "5026 UNIVERSITY WAY NE",
-        "Name": "A PIZZA MART"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "07/29/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2330,12 +2574,14 @@
       "type": "Feature",
       "id": "CHI OMEGA",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "10/24/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "CHI OMEGA",
         "Address": "4549 18TH AVE NE",
-        "Name": "CHI OMEGA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/24/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2349,12 +2595,14 @@
       "type": "Feature",
       "id": "THE COLLEGE INN EASY SHOPPE",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "01/05/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "THE COLLEGE INN EASY SHOPPE",
         "Address": "1406 NE 40TH ST",
-        "Name": "THE COLLEGE INN EASY SHOPPE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/05/2015",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     },
     {
@@ -2368,12 +2616,14 @@
       "type": "Feature",
       "id": "COWEN PARK GROCERY",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/24/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "COWEN PARK GROCERY",
         "Address": "1217 NE RAVENNA BL",
-        "Name": "COWEN PARK GROCERY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/24/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2387,12 +2637,14 @@
       "type": "Feature",
       "id": "DELTA GAMMA",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "11/04/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "DELTA GAMMA",
         "Address": "2012 NE 45TH ST",
-        "Name": "DELTA GAMMA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/04/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2406,12 +2658,14 @@
       "type": "Feature",
       "id": "ITADAKIMASU",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "08/12/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "ITADAKIMASU",
         "Address": "4743 BROOKLYN AVE NE",
-        "Name": "ITADAKIMASU"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/12/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2425,12 +2679,14 @@
       "type": "Feature",
       "id": "LUCID",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category I",
-        "Inspected": "12/06/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "LUCID",
         "Address": "5241 UNIVERSITY WAY NE",
-        "Name": "LUCID"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/06/2014",
+        "Description": "Seating 13-50 - Risk Category I"
       }
     },
     {
@@ -2444,12 +2700,14 @@
       "type": "Feature",
       "id": "METROPOLITAN MARKET  #156",
       "properties": {
-        "Description": "Meat/Sea Food - Risk Category III",
-        "Inspected": "01/14/2015",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "METROPOLITAN MARKET  #156",
         "Address": "5250 40TH AVE NE",
-        "Name": "METROPOLITAN MARKET  #156"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/14/2015",
+        "Description": "Meat/Sea Food - Risk Category III"
       }
     },
     {
@@ -2463,12 +2721,14 @@
       "type": "Feature",
       "id": "PSI UPSILON",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/30/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "PSI UPSILON",
         "Address": "1818 NE 47TH ST",
-        "Name": "PSI UPSILON"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/30/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2482,12 +2742,14 @@
       "type": "Feature",
       "id": "SAVATDEE THAI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/24/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SAVATDEE THAI",
         "Address": "5801 ROOSEVELT AVE NE",
-        "Name": "SAVATDEE THAI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/24/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2501,12 +2763,14 @@
       "type": "Feature",
       "id": "SHAWARMA KING",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "09/23/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SHAWARMA KING",
         "Address": "5004 UNIVERSITY WAY NE",
-        "Name": "SHAWARMA KING"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "09/23/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2520,12 +2784,14 @@
       "type": "Feature",
       "id": "SIGMA ALPHA EPSILON",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/01/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SIGMA ALPHA EPSILON",
         "Address": "4506 17TH AVE NE",
-        "Name": "SIGMA ALPHA EPSILON"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/01/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2539,12 +2805,14 @@
       "type": "Feature",
       "id": "TALARIS CONFERENCE CENTER",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/15/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "TALARIS CONFERENCE CENTER",
         "Address": "4000 NE 41ST ST",
-        "Name": "TALARIS CONFERENCE CENTER"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/15/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2558,12 +2826,14 @@
       "type": "Feature",
       "id": "TERIYAKI FIRST",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/31/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "TERIYAKI FIRST",
         "Address": "5201-B UNIVERSITY WAY NE",
-        "Name": "TERIYAKI FIRST"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/31/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -2577,12 +2847,14 @@
       "type": "Feature",
       "id": "THAN BROTHER'S RESTAURANT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/29/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "THAN BROTHER'S RESTAURANT",
         "Address": "4207 UNIVERSITY WAY NE",
-        "Name": "THAN BROTHER'S RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/29/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2596,12 +2868,14 @@
       "type": "Feature",
       "id": "UNITED METHODIST CHURCH",
       "properties": {
-        "Description": "Non-Profit Institution - Risk Category III",
-        "Inspected": "11/26/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "UNITED METHODIST CHURCH",
         "Address": "1415 NE 43RD ST",
-        "Name": "UNITED METHODIST CHURCH"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/26/2014",
+        "Description": "Non-Profit Institution - Risk Category III"
       }
     },
     {
@@ -2615,12 +2889,14 @@
       "type": "Feature",
       "id": "University Village 76",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "02/02/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "University Village 76",
         "Address": "5100 25th AVE NE",
-        "Name": "University Village 76"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "02/02/2015",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -2634,12 +2910,14 @@
       "type": "Feature",
       "id": "WAYWARD VEGAN CAFE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/21/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "WAYWARD VEGAN CAFE",
         "Address": "5253 UNIVERSITY WAY NE",
-        "Name": "WAYWARD VEGAN CAFE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/21/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2653,12 +2931,14 @@
       "type": "Feature",
       "id": "WINDERMERE AUTO SERVICE",
       "properties": {
-        "Description": "Grocery - Risk Category I",
-        "Inspected": "06/02/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "WINDERMERE AUTO SERVICE",
         "Address": "5450 SANDPOINT WAY NE",
-        "Name": "WINDERMERE AUTO SERVICE"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "06/02/2014",
+        "Description": "Grocery - Risk Category I"
       }
     },
     {
@@ -2672,12 +2952,14 @@
       "type": "Feature",
       "id": "CHILI'S DELI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "08/19/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "CHILI'S DELI",
         "Address": "5002 UNIVERSITY WAY NE",
-        "Name": "CHILI'S DELI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/19/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2691,12 +2973,14 @@
       "type": "Feature",
       "id": "COLLEGE INN PUB",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/05/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "COLLEGE INN PUB",
         "Address": "4006 UNIVERSITY WAY NE",
-        "Name": "COLLEGE INN PUB"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/05/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2710,12 +2994,14 @@
       "type": "Feature",
       "id": "DELFINO'S PIZZERIA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/04/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "DELFINO'S PIZZERIA",
         "Address": "2631 NE UNIVERSITY VILLAGE MALL",
-        "Name": "DELFINO'S PIZZERIA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/04/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2729,12 +3015,14 @@
       "type": "Feature",
       "id": "DUCHESS TAVERN, THE",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/06/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "DUCHESS TAVERN, THE",
         "Address": "2827 NE 55TH ST",
-        "Name": "DUCHESS TAVERN, THE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/06/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2748,12 +3036,14 @@
       "type": "Feature",
       "id": "PUDGE BROS PIZZA",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/01/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "PUDGE BROS PIZZA",
         "Address": "269 NE 45TH ST",
-        "Name": "PUDGE BROS PIZZA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/01/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -2767,12 +3057,14 @@
       "type": "Feature",
       "id": "VILLAGE SUSHI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/10/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "VILLAGE SUSHI",
         "Address": "4741 12TH AVE NE",
-        "Name": "VILLAGE SUSHI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/10/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2786,12 +3078,14 @@
       "type": "Feature",
       "id": "RUZHEN MONGOLIAN GRILL",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "08/05/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "RUZHEN MONGOLIAN GRILL",
         "Address": "4523 UNIVERSITY WAY NE",
-        "Name": "RUZHEN MONGOLIAN GRILL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/05/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2805,12 +3099,14 @@
       "type": "Feature",
       "id": "ALPHA CHI OMEGA",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "09/26/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "ALPHA CHI OMEGA",
         "Address": "4545 17TH AVE NE",
-        "Name": "ALPHA CHI OMEGA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "09/26/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -2824,12 +3120,14 @@
       "type": "Feature",
       "id": "ALPHA DELTA PI",
       "properties": {
-        "Description": "Seating 151-250 - Risk Category III",
-        "Inspected": "10/24/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "ALPHA DELTA PI",
         "Address": "1805 NE 47TH ST",
-        "Name": "ALPHA DELTA PI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/24/2014",
+        "Description": "Seating 151-250 - Risk Category III"
       }
     },
     {
@@ -2843,12 +3141,14 @@
       "type": "Feature",
       "id": "ALPHA PHI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/24/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "ALPHA PHI",
         "Address": "4710 19TH AVE NE",
-        "Name": "ALPHA PHI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/24/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2862,12 +3162,14 @@
       "type": "Feature",
       "id": "BLUE MOON, THE",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category II",
-        "Inspected": "11/10/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "BLUE MOON, THE",
         "Address": "712 NE 45TH ST",
-        "Name": "BLUE MOON, THE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/10/2014",
+        "Description": "Seating 51-150 - Risk Category II"
       }
     },
     {
@@ -2881,12 +3183,14 @@
       "type": "Feature",
       "id": "BRYANT ELEMENTARY SCHOOL",
       "properties": {
-        "Description": "School Kitchen",
-        "Inspected": "12/01/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "BRYANT ELEMENTARY SCHOOL",
         "Address": "3311 NE 60TH ST",
-        "Name": "BRYANT ELEMENTARY SCHOOL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/01/2014",
+        "Description": "School Kitchen"
       }
     },
     {
@@ -2900,12 +3204,14 @@
       "type": "Feature",
       "id": "DELTA CHI FRATERNITY",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/30/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "DELTA CHI FRATERNITY",
         "Address": "1819 NE 47TH ST",
-        "Name": "DELTA CHI FRATERNITY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/30/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2919,12 +3225,14 @@
       "type": "Feature",
       "id": "DELTA TAU DELTA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/31/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "DELTA TAU DELTA",
         "Address": "4524 19TH AVE NE",
-        "Name": "DELTA TAU DELTA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/31/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2938,12 +3246,14 @@
       "type": "Feature",
       "id": "GAUDI BRASERIA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/11/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "GAUDI BRASERIA",
         "Address": "3410 NE 55TH ST",
-        "Name": "GAUDI BRASERIA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/11/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2957,12 +3267,14 @@
       "type": "Feature",
       "id": "IVAR'S SALMON HOUSE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/26/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "IVAR'S SALMON HOUSE",
         "Address": "401 NE NORTHLAKE WAY",
-        "Name": "IVAR'S SALMON HOUSE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/26/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -2976,12 +3288,14 @@
       "type": "Feature",
       "id": "LY'S DONUT",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "07/31/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "LY'S DONUT",
         "Address": "4336 ROOSEVELT WAY NE STE F",
-        "Name": "LY'S DONUT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "07/31/2014",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     },
     {
@@ -2995,12 +3309,14 @@
       "type": "Feature",
       "id": "MARS BISTRO",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/25/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "MARS BISTRO",
         "Address": "5247 UNIVERSITY WAY NE",
-        "Name": "MARS BISTRO"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/25/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3014,12 +3330,14 @@
       "type": "Feature",
       "id": "NORTHLAKE TAVERN",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/26/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "NORTHLAKE TAVERN",
         "Address": "660 NE NORTHLAKE WAY",
-        "Name": "NORTHLAKE TAVERN"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/26/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3033,12 +3351,14 @@
       "type": "Feature",
       "id": "PLUME",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/19/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "PLUME",
         "Address": "5101 25TH AVE NE #4",
-        "Name": "PLUME"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/19/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3052,12 +3372,14 @@
       "type": "Feature",
       "id": "SAMIR'S MEDITERRANEAN GRILL",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/26/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SAMIR'S MEDITERRANEAN GRILL",
         "Address": "1316 NE 43RD ST",
-        "Name": "SAMIR'S MEDITERRANEAN GRILL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/26/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -3071,12 +3393,14 @@
       "type": "Feature",
       "id": "SIGMA NU",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/30/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "SIGMA NU",
         "Address": "1616 NE 47TH ST",
-        "Name": "SIGMA NU"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/30/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3090,12 +3414,14 @@
       "type": "Feature",
       "id": "SUBWAY #272",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/19/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "SUBWAY #272",
         "Address": "5401 25TH AVE NE",
-        "Name": "SUBWAY #272"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/19/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -3109,12 +3435,14 @@
       "type": "Feature",
       "id": "UNIVERSITY 76",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/12/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "UNIVERSITY 76",
         "Address": "4557 BROOKLYN AVE NE",
-        "Name": "UNIVERSITY 76"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/12/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -3128,12 +3456,14 @@
       "type": "Feature",
       "id": "UNIVERSITY TACO DEL MAR",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/22/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "UNIVERSITY TACO DEL MAR",
         "Address": "1313 NE 42ND ST",
-        "Name": "UNIVERSITY TACO DEL MAR"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/22/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3147,12 +3477,14 @@
       "type": "Feature",
       "id": "VEGGIE GRILL",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/06/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "VEGGIE GRILL",
         "Address": "2681 NE UNIVERSITY VILLAGE ST",
-        "Name": "VEGGIE GRILL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/06/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3166,12 +3498,14 @@
       "type": "Feature",
       "id": "YOGURTLAND",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "01/21/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "YOGURTLAND",
         "Address": "4334 UNIVERSITY WAY NE",
-        "Name": "YOGURTLAND"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/21/2015",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -3185,12 +3519,14 @@
       "type": "Feature",
       "id": "ALPHA DELTA FRATERNITY INC",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "11/03/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "ALPHA DELTA FRATERNITY INC",
         "Address": "2106 NE 47TH ST",
-        "Name": "ALPHA DELTA FRATERNITY INC"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/03/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3204,12 +3540,14 @@
       "type": "Feature",
       "id": "DELTA UPSILON",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/08/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "DELTA UPSILON",
         "Address": "4508 19TH AVE NE",
-        "Name": "DELTA UPSILON"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/08/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3223,12 +3561,14 @@
       "type": "Feature",
       "id": "DELTA ZETA",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/01/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "DELTA ZETA",
         "Address": "4535 18TH AVE NE",
-        "Name": "DELTA ZETA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/01/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3242,12 +3582,14 @@
       "type": "Feature",
       "id": "Mamma Melina",
       "properties": {
-        "Description": "Seating 151-250 - Risk Category III",
-        "Inspected": "12/19/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "Mamma Melina",
         "Address": "5101 25th AVE NE #2-3",
-        "Name": "Mamma Melina"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/19/2014",
+        "Description": "Seating 151-250 - Risk Category III"
       }
     },
     {
@@ -3261,12 +3603,14 @@
       "type": "Feature",
       "id": "MR LU SEAFOOD & BURGERS",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "07/28/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "MR LU SEAFOOD & BURGERS",
         "Address": "4752 UNIVERSITY WAY NE",
-        "Name": "MR LU SEAFOOD & BURGERS"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "07/28/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3280,12 +3624,14 @@
       "type": "Feature",
       "id": "SUNRICE LLC",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/18/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SUNRICE LLC",
         "Address": "3513 NE 45TH ST #G",
-        "Name": "SUNRICE LLC"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/18/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3299,12 +3645,14 @@
       "type": "Feature",
       "id": "VARLAMOS PIZZERIA",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "11/08/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "VARLAMOS PIZZERIA",
         "Address": "3617 NE 45TH ST",
-        "Name": "VARLAMOS PIZZERIA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/08/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3318,12 +3666,14 @@
       "type": "Feature",
       "id": "SPECIALTY'S CAFE & BAKERY #115",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/17/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SPECIALTY'S CAFE & BAKERY #115",
         "Address": "2690 NE VILLAGE LN",
-        "Name": "SPECIALTY'S CAFE & BAKERY #115"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/17/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3337,12 +3687,14 @@
       "type": "Feature",
       "id": "ALPHA GAMMA DELTA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/08/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "ALPHA GAMMA DELTA",
         "Address": "4510 21ST AVE NE",
-        "Name": "ALPHA GAMMA DELTA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/08/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3356,12 +3708,14 @@
       "type": "Feature",
       "id": "BEST OF BENTO",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/19/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "BEST OF BENTO",
         "Address": "4245 UNIVERSITY WAY NE",
-        "Name": "BEST OF BENTO"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/19/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3375,12 +3729,14 @@
       "type": "Feature",
       "id": "BETA THETA PI",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "09/26/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "BETA THETA PI",
         "Address": "1617 NE 47TH ST",
-        "Name": "BETA THETA PI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "09/26/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3394,12 +3750,14 @@
       "type": "Feature",
       "id": "BULLDOG NEWS INC",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category I",
-        "Inspected": "02/05/2015",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "BULLDOG NEWS INC",
         "Address": "4208 UNIVERSITY WAY NE",
-        "Name": "BULLDOG NEWS INC"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "02/05/2015",
+        "Description": "Seating 0-12 - Risk Category I"
       }
     },
     {
@@ -3413,12 +3771,14 @@
       "type": "Feature",
       "id": "CHINA VILLAGE RESTAURANT",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/14/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "CHINA VILLAGE RESTAURANT",
         "Address": "3224 NE 45TH ST",
-        "Name": "CHINA VILLAGE RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/14/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3432,12 +3792,14 @@
       "type": "Feature",
       "id": "FAT DUCKS DELI & BAKERY",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/31/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "FAT DUCKS DELI & BAKERY",
         "Address": "5509 UNIVERSITY WAY NE #C",
-        "Name": "FAT DUCKS DELI & BAKERY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/31/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3451,12 +3813,14 @@
       "type": "Feature",
       "id": "FOURNO'S",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "04/19/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "FOURNO'S",
         "Address": "4733 UNIVERSITY WAY NE",
-        "Name": "FOURNO'S"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "04/19/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3470,12 +3834,14 @@
       "type": "Feature",
       "id": "KNARR SHIPWRECK LOUNGE",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "03/15/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "KNARR SHIPWRECK LOUNGE",
         "Address": "5633 UNIVERSITY WAY NE",
-        "Name": "KNARR SHIPWRECK LOUNGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "03/15/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3489,12 +3855,14 @@
       "type": "Feature",
       "id": "MCDONALD'S",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/14/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "MCDONALD'S",
         "Address": "5146 25TH AVE NE",
-        "Name": "MCDONALD'S"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/14/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3508,12 +3876,14 @@
       "type": "Feature",
       "id": "NASAI TERIYAKI",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "01/14/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "NASAI TERIYAKI",
         "Address": "5025 25TH AVE NE",
-        "Name": "NASAI TERIYAKI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/14/2015",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -3527,12 +3897,14 @@
       "type": "Feature",
       "id": "OFFSHORE CAFE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/15/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "OFFSHORE CAFE",
         "Address": "658 NE NORTHLAKE WAY",
-        "Name": "OFFSHORE CAFE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/15/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3546,12 +3918,14 @@
       "type": "Feature",
       "id": "PERSPOLIS GRILL",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/27/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PERSPOLIS GRILL",
         "Address": "5517 UNIVERSITY WAY NE",
-        "Name": "PERSPOLIS GRILL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/27/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3565,12 +3939,14 @@
       "type": "Feature",
       "id": "QDOBA MEXICAN GRILL #2479",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/12/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "QDOBA MEXICAN GRILL #2479",
         "Address": "1200 NE 45TH ST",
-        "Name": "QDOBA MEXICAN GRILL #2479"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/12/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3584,12 +3960,14 @@
       "type": "Feature",
       "id": "SAFEWAY INC #488",
       "properties": {
-        "Description": "Meat/Sea Food - Risk Category III",
-        "Inspected": "01/20/2015",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "SAFEWAY INC #488",
         "Address": "3020 NE 45TH ST",
-        "Name": "SAFEWAY INC #488"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/20/2015",
+        "Description": "Meat/Sea Food - Risk Category III"
       }
     },
     {
@@ -3603,12 +3981,14 @@
       "type": "Feature",
       "id": "SAMURAI NOODLE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/19/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SAMURAI NOODLE",
         "Address": "4138 UNIVERSITY WAY NE",
-        "Name": "SAMURAI NOODLE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/19/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3622,12 +4002,14 @@
       "type": "Feature",
       "id": "SARDUCCI'S",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/09/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SARDUCCI'S",
         "Address": "4135 UNIVERSITY WAY NE",
-        "Name": "SARDUCCI'S"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/09/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3641,12 +4023,14 @@
       "type": "Feature",
       "id": "THETA CHI",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "09/26/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "THETA CHI",
         "Address": "4535 17TH AVE NE",
-        "Name": "THETA CHI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "09/26/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3660,12 +4044,14 @@
       "type": "Feature",
       "id": "TRADER JOE'S #137",
       "properties": {
-        "Description": "Grocery - Risk Category II",
-        "Inspected": "07/23/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "TRADER JOE'S #137",
         "Address": "4555 ROOSEVELT WAY NE",
-        "Name": "TRADER JOE'S #137"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "07/23/2014",
+        "Description": "Grocery - Risk Category II"
       }
     },
     {
@@ -3679,12 +4065,14 @@
       "type": "Feature",
       "id": "UNIVERSITY INN",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category I",
-        "Inspected": "06/02/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "UNIVERSITY INN",
         "Address": "4140 ROOSEVELT WAY NE",
-        "Name": "UNIVERSITY INN"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "06/02/2014",
+        "Description": "Seating 13-50 - Risk Category I"
       }
     },
     {
@@ -3698,12 +4086,14 @@
       "type": "Feature",
       "id": "UNIVERSITY PRESBYTERIAN CHURCH",
       "properties": {
-        "Description": "Non-Profit Institution - Risk Category III",
-        "Inspected": "11/25/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "UNIVERSITY PRESBYTERIAN CHURCH",
         "Address": "4540 15TH AVE NE",
-        "Name": "UNIVERSITY PRESBYTERIAN CHURCH"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/25/2014",
+        "Description": "Non-Profit Institution - Risk Category III"
       }
     },
     {
@@ -3717,12 +4107,14 @@
       "type": "Feature",
       "id": "UNIVERSITY SEAFOOD & POULTRY",
       "properties": {
-        "Description": "Meat/Sea Food - Risk Category III",
-        "Inspected": "12/15/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "UNIVERSITY SEAFOOD & POULTRY",
         "Address": "1317 NE 47TH ST",
-        "Name": "UNIVERSITY SEAFOOD & POULTRY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/15/2014",
+        "Description": "Meat/Sea Food - Risk Category III"
       }
     },
     {
@@ -3736,12 +4128,14 @@
       "type": "Feature",
       "id": "AFC SUSHI @  (QFC #807)",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/31/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "AFC SUSHI @  (QFC #807)",
         "Address": "2746 NE 45TH ST",
-        "Name": "AFC SUSHI @  (QFC #807)"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/31/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -3755,12 +4149,14 @@
       "type": "Feature",
       "id": "SAFEWAY INC #488",
       "properties": {
-        "Description": "Grocery - Risk Category I",
-        "Inspected": "05/07/2014",
-        "Score": "0",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "SAFEWAY INC #488",
         "Address": "3020 NE 45TH ST",
-        "Name": "SAFEWAY INC #488"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "05/07/2014",
+        "Description": "Grocery - Risk Category I"
       }
     },
     {
@@ -3774,12 +4170,14 @@
       "type": "Feature",
       "id": "SULTAN GYRO GRILL",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/29/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "SULTAN GYRO GRILL",
         "Address": "4222 UNIVERSITY WAY NE",
-        "Name": "SULTAN GYRO GRILL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/29/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3793,12 +4191,14 @@
       "type": "Feature",
       "id": "THETA XI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/14/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "THETA XI",
         "Address": "4522 18TH AVE NE",
-        "Name": "THETA XI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/14/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3812,12 +4212,14 @@
       "type": "Feature",
       "id": "WATERTOWN",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/24/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "WATERTOWN",
         "Address": "4242 ROOSEVELT WAY NE",
-        "Name": "WATERTOWN"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/24/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3831,12 +4233,14 @@
       "type": "Feature",
       "id": "ALLEGRO ESPRESSO BAR",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category I",
-        "Inspected": "01/26/2015",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "ALLEGRO ESPRESSO BAR",
         "Address": "4214 UNIVERSITY WAY NE",
-        "Name": "ALLEGRO ESPRESSO BAR"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "01/26/2015",
+        "Description": "Seating 13-50 - Risk Category I"
       }
     },
     {
@@ -3850,12 +4254,14 @@
       "type": "Feature",
       "id": "BASKIN ROBBINS #1304",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category I",
-        "Inspected": "02/03/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "BASKIN ROBBINS #1304",
         "Address": "3200 NE 45TH ST",
-        "Name": "BASKIN ROBBINS #1304"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "02/03/2014",
+        "Description": "Seating 0-12 - Risk Category I"
       }
     },
     {
@@ -3869,12 +4275,14 @@
       "type": "Feature",
       "id": "PAPA JOHN'S PIZZA",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/19/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PAPA JOHN'S PIZZA",
         "Address": "5401 25TH AVE NE",
-        "Name": "PAPA JOHN'S PIZZA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/19/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -3888,12 +4296,14 @@
       "type": "Feature",
       "id": "SHELL OIL",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category I",
-        "Inspected": "01/06/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "SHELL OIL",
         "Address": "210 NE 45TH ST",
-        "Name": "SHELL OIL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/06/2014",
+        "Description": "Seating 0-12 - Risk Category I"
       }
     },
     {
@@ -3907,12 +4317,14 @@
       "type": "Feature",
       "id": "ROYAL GRILL & BEER",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "11/22/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "ROYAL GRILL & BEER",
         "Address": "5211 UNIVERSITY WAY NE",
-        "Name": "ROYAL GRILL & BEER"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/22/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3926,12 +4338,14 @@
       "type": "Feature",
       "id": "SUNDANCE CINEMAS",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/06/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SUNDANCE CINEMAS",
         "Address": "4500 9TH AVE NE",
-        "Name": "SUNDANCE CINEMAS"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "12/06/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3945,12 +4359,14 @@
       "type": "Feature",
       "id": "ALPHA EPSILON PI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "04/29/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "ALPHA EPSILON PI",
         "Address": "4541 19TH AVE NE",
-        "Name": "ALPHA EPSILON PI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "04/29/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -3964,12 +4380,14 @@
       "type": "Feature",
       "id": "DELTA DELTA DELTA",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "10/20/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "DELTA DELTA DELTA",
         "Address": "4527 21ST AVE NE",
-        "Name": "DELTA DELTA DELTA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/20/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -3983,12 +4401,14 @@
       "type": "Feature",
       "id": "JACK IN THE BOX #8412",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/13/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "JACK IN THE BOX #8412",
         "Address": "4749 UNIVERSITY WAY NE",
-        "Name": "JACK IN THE BOX #8412"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/13/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4002,12 +4422,14 @@
       "type": "Feature",
       "id": "KAPPA ALPHA THETA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/21/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "KAPPA ALPHA THETA",
         "Address": "4521 17TH AVE NE",
-        "Name": "KAPPA ALPHA THETA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/21/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4021,12 +4443,14 @@
       "type": "Feature",
       "id": "LAURELHURST COMMUNITY CENTER",
       "properties": {
-        "Description": "Non-Profit Institution  - Risk Category I",
-        "Inspected": "05/28/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "LAURELHURST COMMUNITY CENTER",
         "Address": "4554 NE 41ST CT",
-        "Name": "LAURELHURST COMMUNITY CENTER"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "05/28/2014",
+        "Description": "Non-Profit Institution  - Risk Category I"
       }
     },
     {
@@ -4040,12 +4464,14 @@
       "type": "Feature",
       "id": "Mama Mia Pizzeria",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/13/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "Mama Mia Pizzeria",
         "Address": "5301 ROOSEVELT WAY NE",
-        "Name": "Mama Mia Pizzeria"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/13/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4059,12 +4485,14 @@
       "type": "Feature",
       "id": "MANDARIN CHEF",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "08/19/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "MANDARIN CHEF",
         "Address": "5022 UNIVERSITY WAY NE",
-        "Name": "MANDARIN CHEF"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/19/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4078,12 +4506,14 @@
       "type": "Feature",
       "id": "METROPOLITAN MARKET  #156",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/08/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "METROPOLITAN MARKET  #156",
         "Address": "5250 40TH AVE NE",
-        "Name": "METROPOLITAN MARKET  #156"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/08/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4097,12 +4527,14 @@
       "type": "Feature",
       "id": "NEPTUNE THEATRE",
       "properties": {
-        "Description": "Seating > 250 - Risk Category I",
-        "Inspected": "09/13/2014",
-        "Score": "0",
         "Result": "Not Ready For Inspection",
+        "marker-color": "#808080",
+        "Name": "NEPTUNE THEATRE",
         "Address": "1303 NE 45TH ST",
-        "Name": "NEPTUNE THEATRE"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "09/13/2014",
+        "Description": "Seating > 250 - Risk Category I"
       }
     },
     {
@@ -4116,12 +4548,14 @@
       "type": "Feature",
       "id": "SAFEWAY INC #3091",
       "properties": {
-        "Description": "Grocery - Risk Category I",
-        "Inspected": "08/07/2014",
-        "Score": "10",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "SAFEWAY INC #3091",
         "Address": "4732 BROOKLYN AVE NE",
-        "Name": "SAFEWAY INC #3091"
+        "marker-size": "small",
+        "Score": "10",
+        "Inspected": "08/07/2014",
+        "Description": "Grocery - Risk Category I"
       }
     },
     {
@@ -4135,12 +4569,14 @@
       "type": "Feature",
       "id": "SHELL GAS STATION,  #103",
       "properties": {
-        "Description": "Grocery - Risk Category I",
-        "Inspected": "11/24/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "SHELL GAS STATION,  #103",
         "Address": "1013 NE 45TH ST",
-        "Name": "SHELL GAS STATION,  #103"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/24/2014",
+        "Description": "Grocery - Risk Category I"
       }
     },
     {
@@ -4154,12 +4590,14 @@
       "type": "Feature",
       "id": "STARBUCKS COFFEE #7941",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category II",
-        "Inspected": "09/15/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "STARBUCKS COFFEE #7941",
         "Address": "4147 UNIVERSITY WAY NE",
-        "Name": "STARBUCKS COFFEE #7941"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "09/15/2014",
+        "Description": "Seating 51-150 - Risk Category II"
       }
     },
     {
@@ -4173,12 +4611,14 @@
       "type": "Feature",
       "id": "SURESHOT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "08/05/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "SURESHOT",
         "Address": "4505 UNIVERSITY WAY NE",
-        "Name": "SURESHOT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/05/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4192,12 +4632,14 @@
       "type": "Feature",
       "id": "TRINITY MARKET & DELI",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "11/24/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "TRINITY MARKET & DELI",
         "Address": "4305 ROOSEVELT WAY NE",
-        "Name": "TRINITY MARKET & DELI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/24/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -4211,12 +4653,14 @@
       "type": "Feature",
       "id": "WING ZONE #27",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "10/10/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "WING ZONE #27",
         "Address": "5042 ROOSEVELT WAY NE",
-        "Name": "WING ZONE #27"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/10/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -4230,12 +4674,14 @@
       "type": "Feature",
       "id": "BIG TIME BREWING CO",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/12/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "BIG TIME BREWING CO",
         "Address": "4133 UNIVERSITY WAY NE",
-        "Name": "BIG TIME BREWING CO"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/12/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -4249,12 +4695,14 @@
       "type": "Feature",
       "id": "JOHN STANFORD INTERNATIONAL SCHOOL",
       "properties": {
-        "Description": "School Kitchen",
-        "Inspected": "12/11/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "JOHN STANFORD INTERNATIONAL SCHOOL",
         "Address": "4057 5TH AVE NE",
-        "Name": "JOHN STANFORD INTERNATIONAL SCHOOL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/11/2014",
+        "Description": "School Kitchen"
       }
     },
     {
@@ -4268,12 +4716,14 @@
       "type": "Feature",
       "id": "METROPOLITAN MARKET  #156",
       "properties": {
-        "Description": "Grocery - Risk Category II",
-        "Inspected": "01/20/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "METROPOLITAN MARKET  #156",
         "Address": "5250 40TH AVE NE",
-        "Name": "METROPOLITAN MARKET  #156"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/20/2015",
+        "Description": "Grocery - Risk Category II"
       }
     },
     {
@@ -4287,12 +4737,14 @@
       "type": "Feature",
       "id": "SAFEWAY INC #3091",
       "properties": {
-        "Description": "Meat/Sea Food - Risk Category III",
-        "Inspected": "12/15/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "SAFEWAY INC #3091",
         "Address": "4732 BROOKLYN AVE NE",
-        "Name": "SAFEWAY INC #3091"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/15/2014",
+        "Description": "Meat/Sea Food - Risk Category III"
       }
     },
     {
@@ -4306,12 +4758,14 @@
       "type": "Feature",
       "id": "HAAGEN-DAZS SHOP",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "08/18/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "HAAGEN-DAZS SHOP",
         "Address": "4301 UNIVERSITY WAY NE",
-        "Name": "HAAGEN-DAZS SHOP"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/18/2014",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     },
     {
@@ -4325,12 +4779,14 @@
       "type": "Feature",
       "id": "KAPPA KAPPA GAMMA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/30/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "KAPPA KAPPA GAMMA",
         "Address": "4504 18TH AVE NE",
-        "Name": "KAPPA KAPPA GAMMA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/30/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4344,12 +4800,14 @@
       "type": "Feature",
       "id": "PIZZA RAGAZZI",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/31/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PIZZA RAGAZZI",
         "Address": "5201 UNIVERSITY WAY NE",
-        "Name": "PIZZA RAGAZZI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/31/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -4363,12 +4821,14 @@
       "type": "Feature",
       "id": "7-ELEVEN STORE #2360-29078B",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "08/06/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "7-ELEVEN STORE #2360-29078B",
         "Address": "101 NE 50TH ST",
-        "Name": "7-ELEVEN STORE #2360-29078B"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/06/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -4382,12 +4842,14 @@
       "type": "Feature",
       "id": "BEAN & BAGEL",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/22/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "BEAN & BAGEL",
         "Address": "1410 NE 40TH ST",
-        "Name": "BEAN & BAGEL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/22/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4401,12 +4863,14 @@
       "type": "Feature",
       "id": "CAMPUS CORNER CAFE",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "11/26/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "CAMPUS CORNER CAFE",
         "Address": "4100 ROOSEVELT WAY NE #B",
-        "Name": "CAMPUS CORNER CAFE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/26/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -4420,12 +4884,14 @@
       "type": "Feature",
       "id": "DAWGPOUND",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "11/21/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "DAWGPOUND",
         "Address": "5201 UNIVERSITY WAY NE",
-        "Name": "DAWGPOUND"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/21/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -4439,12 +4905,14 @@
       "type": "Feature",
       "id": "DIN TAI FUNG RESTAURANT",
       "properties": {
-        "Description": "Seating > 250 - Risk Category III",
-        "Inspected": "01/13/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "DIN TAI FUNG RESTAURANT",
         "Address": "2621 NE 46TH ST",
-        "Name": "DIN TAI FUNG RESTAURANT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/13/2015",
+        "Description": "Seating > 250 - Risk Category III"
       }
     },
     {
@@ -4458,12 +4926,14 @@
       "type": "Feature",
       "id": "GAMMA PHI BETA",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "09/26/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "GAMMA PHI BETA",
         "Address": "4529 17TH AVE NE",
-        "Name": "GAMMA PHI BETA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "09/26/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -4477,12 +4947,14 @@
       "type": "Feature",
       "id": "GRETCHEN'S PLACE",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "08/25/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "GRETCHEN'S PLACE",
         "Address": "5432 SAND POINT WAY NE",
-        "Name": "GRETCHEN'S PLACE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/25/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -4496,12 +4968,14 @@
       "type": "Feature",
       "id": "JIMMY JOHN'S GOURMET SANDWICHES",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "01/09/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "JIMMY JOHN'S GOURMET SANDWICHES",
         "Address": "4141 UNIVERSITY WAY NE",
-        "Name": "JIMMY JOHN'S GOURMET SANDWICHES"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/09/2015",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -4515,12 +4989,14 @@
       "type": "Feature",
       "id": "JOEY KITCHEN",
       "properties": {
-        "Description": "Seating 151-250 - Risk Category III",
-        "Inspected": "09/08/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "JOEY KITCHEN",
         "Address": "2603 NE 46TH ST",
-        "Name": "JOEY KITCHEN"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "09/08/2014",
+        "Description": "Seating 151-250 - Risk Category III"
       }
     },
     {
@@ -4534,12 +5010,14 @@
       "type": "Feature",
       "id": "METROPOLITAN MARKET  #156",
       "properties": {
-        "Description": "Meat/Sea Food - Risk Category III",
-        "Inspected": "01/14/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "METROPOLITAN MARKET  #156",
         "Address": "5250 40TH AVE NE",
-        "Name": "METROPOLITAN MARKET  #156"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/14/2015",
+        "Description": "Meat/Sea Food - Risk Category III"
       }
     },
     {
@@ -4553,12 +5031,14 @@
       "type": "Feature",
       "id": "PI BETA PHI",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/06/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PI BETA PHI",
         "Address": "4548 17TH AVE NE",
-        "Name": "PI BETA PHI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/06/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4572,12 +5052,14 @@
       "type": "Feature",
       "id": "QFC #807-UNIVERSITY VILLAGE",
       "properties": {
-        "Description": "Meat/Sea Food - Risk Category III",
-        "Inspected": "10/22/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "QFC #807-UNIVERSITY VILLAGE",
         "Address": "2746 NE 45TH ST",
-        "Name": "QFC #807-UNIVERSITY VILLAGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/22/2014",
+        "Description": "Meat/Sea Food - Risk Category III"
       }
     },
     {
@@ -4591,12 +5073,14 @@
       "type": "Feature",
       "id": "QFC #807-UNIVERSITY VILLAGE",
       "properties": {
-        "Description": "Grocery - Risk Category I",
-        "Inspected": "02/28/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "QFC #807-UNIVERSITY VILLAGE",
         "Address": "2746 NE 45TH ST",
-        "Name": "QFC #807-UNIVERSITY VILLAGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "02/28/2014",
+        "Description": "Grocery - Risk Category I"
       }
     },
     {
@@ -4610,12 +5094,14 @@
       "type": "Feature",
       "id": "SAFEWAY INC #488",
       "properties": {
-        "Description": "Bakery-Risk Category II",
-        "Inspected": "01/20/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "SAFEWAY INC #488",
         "Address": "3020 NE 45TH ST",
-        "Name": "SAFEWAY INC #488"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/20/2015",
+        "Description": "Bakery-Risk Category II"
       }
     },
     {
@@ -4629,12 +5115,14 @@
       "type": "Feature",
       "id": "TEAVANA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/17/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "TEAVANA",
         "Address": "2625 NE UNIVERSITY VILLAGE ST",
-        "Name": "TEAVANA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/17/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4648,12 +5136,14 @@
       "type": "Feature",
       "id": "U WAY GROCERY",
       "properties": {
-        "Description": "Grocery - Risk Category I",
-        "Inspected": "04/28/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "U WAY GROCERY",
         "Address": "5202 UNIVERSITY WAY NE",
-        "Name": "U WAY GROCERY"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "04/28/2014",
+        "Description": "Grocery - Risk Category I"
       }
     },
     {
@@ -4667,12 +5157,14 @@
       "type": "Feature",
       "id": "UNIVERSITY BOOK STORE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/21/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "UNIVERSITY BOOK STORE",
         "Address": "4326 UNIVERSITY WAY NE",
-        "Name": "UNIVERSITY BOOK STORE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/21/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4686,12 +5178,14 @@
       "type": "Feature",
       "id": "JAMBA JUICE #521",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "08/04/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "JAMBA JUICE #521",
         "Address": "2690 NE 49TH ST",
-        "Name": "JAMBA JUICE #521"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/04/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -4705,12 +5199,14 @@
       "type": "Feature",
       "id": "HILLEL, FOUNDATION FOR JEWISH LIFE",
       "properties": {
-        "Description": "Non-Profit Institution - Risk Category III",
-        "Inspected": "10/06/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "HILLEL, FOUNDATION FOR JEWISH LIFE",
         "Address": "4745 17TH AVE NE",
-        "Name": "HILLEL, FOUNDATION FOR JEWISH LIFE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/06/2014",
+        "Description": "Non-Profit Institution - Risk Category III"
       }
     },
     {
@@ -4724,12 +5220,14 @@
       "type": "Feature",
       "id": "PEARL BISTRO PHO 4 U",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/31/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "PEARL BISTRO PHO 4 U",
         "Address": "5259 UNIVERSITY WAY NE",
-        "Name": "PEARL BISTRO PHO 4 U"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/31/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4743,12 +5241,14 @@
       "type": "Feature",
       "id": "PINKY'S KITCHEN",
       "properties": {
-        "Description": "Mobile Food Service - Risk Category III",
-        "Inspected": "11/19/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "PINKY'S KITCHEN",
         "Address": "211 NE 45TH ST",
-        "Name": "PINKY'S KITCHEN"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/19/2014",
+        "Description": "Mobile Food Service - Risk Category III"
       }
     },
     {
@@ -4762,12 +5262,14 @@
       "type": "Feature",
       "id": "UNIV. CHRIST. UNION WOMEN",
       "properties": {
-        "Description": "Non-Profit Institution - Risk Category III",
-        "Inspected": "11/25/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "UNIV. CHRIST. UNION WOMEN",
         "Address": "4554 16TH AVE NE",
-        "Name": "UNIV. CHRIST. UNION WOMEN"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/25/2014",
+        "Description": "Non-Profit Institution - Risk Category III"
       }
     },
     {
@@ -4781,12 +5283,14 @@
       "type": "Feature",
       "id": "EINSTEIN BROS BAGELS #2171",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "02/02/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "EINSTEIN BROS BAGELS #2171",
         "Address": "2746 NE 45TH ST",
-        "Name": "EINSTEIN BROS BAGELS #2171"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "02/02/2015",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -4800,12 +5304,14 @@
       "type": "Feature",
       "id": "HAWAII BBQ",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "01/06/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "HAWAII BBQ",
         "Address": "4549 UNIVERSITY WAY NE",
-        "Name": "HAWAII BBQ"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/06/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -4819,12 +5325,14 @@
       "type": "Feature",
       "id": "7-ELEVEN, INC #35289A",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/17/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "7-ELEVEN, INC #35289A",
         "Address": "4224 UNIVERSITY WAY NE",
-        "Name": "7-ELEVEN, INC #35289A"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/17/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -4838,12 +5346,14 @@
       "type": "Feature",
       "id": "AFC SUSHI @ METROPOLITAN 156",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/12/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "AFC SUSHI @ METROPOLITAN 156",
         "Address": "5250 40TH AVE NE",
-        "Name": "AFC SUSHI @ METROPOLITAN 156"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/12/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -4857,12 +5367,14 @@
       "type": "Feature",
       "id": "BOULEVARD GROCERY",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "12/16/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "BOULEVARD GROCERY",
         "Address": "2007 NE RAVENNA BL",
-        "Name": "BOULEVARD GROCERY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/16/2014",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     },
     {
@@ -4876,12 +5388,14 @@
       "type": "Feature",
       "id": "EAT WELL SEATTLE",
       "properties": {
-        "Description": "Catering Operation - Risk Category III",
-        "Inspected": "06/17/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "EAT WELL SEATTLE",
         "Address": "4554 NE 41ST ST",
-        "Name": "EAT WELL SEATTLE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "06/17/2014",
+        "Description": "Catering Operation - Risk Category III"
       }
     },
     {
@@ -4895,12 +5409,14 @@
       "type": "Feature",
       "id": "FULL TILT U DISTRICT",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "08/27/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "FULL TILT U DISTRICT",
         "Address": "4759 BROOKLYN AVE NE #4",
-        "Name": "FULL TILT U DISTRICT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/27/2014",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     },
     {
@@ -4914,12 +5430,14 @@
       "type": "Feature",
       "id": "LAURELHURST ELEMENTARY SCHOOL",
       "properties": {
-        "Description": "School Kitchen",
-        "Inspected": "01/15/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "LAURELHURST ELEMENTARY SCHOOL",
         "Address": "4530 46TH AVE NE",
-        "Name": "LAURELHURST ELEMENTARY SCHOOL"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/15/2015",
+        "Description": "School Kitchen"
       }
     },
     {
@@ -4933,12 +5451,14 @@
       "type": "Feature",
       "id": "MOD SUPERFAST PIZZA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/22/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "MOD SUPERFAST PIZZA",
         "Address": "1414 NE 42ND ST #103B",
-        "Name": "MOD SUPERFAST PIZZA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/22/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -4952,12 +5472,14 @@
       "type": "Feature",
       "id": "MOLLY MOON'S HOMEMADE ICE CREAM @ U VILLIAGE",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "09/08/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "MOLLY MOON'S HOMEMADE ICE CREAM @ U VILLIAGE",
         "Address": "2615 NE 46TH ST",
-        "Name": "MOLLY MOON'S HOMEMADE ICE CREAM @ U VILLIAGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "09/08/2014",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     },
     {
@@ -4971,12 +5493,14 @@
       "type": "Feature",
       "id": "MY SWEET LORD CAFE",
       "properties": {
-        "Description": "Non-Profit Institution - Risk Category III",
-        "Inspected": "12/13/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "MY SWEET LORD CAFE",
         "Address": "5521 UNIVERSITY WAY NE",
-        "Name": "MY SWEET LORD CAFE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/13/2014",
+        "Description": "Non-Profit Institution - Risk Category III"
       }
     },
     {
@@ -4990,12 +5514,14 @@
       "type": "Feature",
       "id": "PHI GAMMA DELTA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/21/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PHI GAMMA DELTA",
         "Address": "4503 17TH AVE NE",
-        "Name": "PHI GAMMA DELTA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/21/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -5009,12 +5535,14 @@
       "type": "Feature",
       "id": "PINKAEW THAI CUISINE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/14/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "PINKAEW THAI CUISINE",
         "Address": "5101 25TH AVE NE 11",
-        "Name": "PINKAEW THAI CUISINE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/14/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -5028,12 +5556,14 @@
       "type": "Feature",
       "id": "QFC #807-UNIVERSITY VILLAGE",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "02/02/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "QFC #807-UNIVERSITY VILLAGE",
         "Address": "2746 NE 45TH ST",
-        "Name": "QFC #807-UNIVERSITY VILLAGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "02/02/2015",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     },
     {
@@ -5047,12 +5577,14 @@
       "type": "Feature",
       "id": "SAFEWAY INC #3091",
       "properties": {
-        "Description": "Bakery-Risk Category II",
-        "Inspected": "12/15/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "SAFEWAY INC #3091",
         "Address": "4732 BROOKLYN AVE NE",
-        "Name": "SAFEWAY INC #3091"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/15/2014",
+        "Description": "Bakery-Risk Category II"
       }
     },
     {
@@ -5066,12 +5598,14 @@
       "type": "Feature",
       "id": "SEVEN GABLES THEATRE",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category I",
-        "Inspected": "05/17/2014",
-        "Score": "0",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "SEVEN GABLES THEATRE",
         "Address": "911 NE 50TH ST",
-        "Name": "SEVEN GABLES THEATRE"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "05/17/2014",
+        "Description": "Seating 0-12 - Risk Category I"
       }
     },
     {
@@ -5085,12 +5619,14 @@
       "type": "Feature",
       "id": "WALGREENS #07352",
       "properties": {
-        "Description": "Grocery - Risk Category I",
-        "Inspected": "04/28/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "WALGREENS #07352",
         "Address": "1205 NE 50TH ST",
-        "Name": "WALGREENS #07352"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "04/28/2014",
+        "Description": "Grocery - Risk Category I"
       }
     },
     {
@@ -5104,12 +5640,14 @@
       "type": "Feature",
       "id": "WINE WORLD WAREHOUSE",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category I",
-        "Inspected": "01/06/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "WINE WORLD WAREHOUSE",
         "Address": "400 NE 45TH ST #130",
-        "Name": "WINE WORLD WAREHOUSE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/06/2014",
+        "Description": "Seating 0-12 - Risk Category I"
       }
     },
     {
@@ -5123,12 +5661,14 @@
       "type": "Feature",
       "id": "CITRA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category I",
-        "Inspected": "02/04/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "CITRA",
         "Address": "4730 UNIVERSITY WAY NE",
-        "Name": "CITRA"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "02/04/2014",
+        "Description": "Seating 13-50 - Risk Category I"
       }
     },
     {
@@ -5142,12 +5682,14 @@
       "type": "Feature",
       "id": "DICK'S DRIVE IN",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/01/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "DICK'S DRIVE IN",
         "Address": "111 NE 45TH ST",
-        "Name": "DICK'S DRIVE IN"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/01/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -5161,12 +5703,14 @@
       "type": "Feature",
       "id": "VILLA ACADEMY",
       "properties": {
-        "Description": "Non-Profit Institution - Risk Category III",
-        "Inspected": "01/15/2015",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "VILLA ACADEMY",
         "Address": "5001 NE 50TH ST",
-        "Name": "VILLA ACADEMY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/15/2015",
+        "Description": "Non-Profit Institution - Risk Category III"
       }
     },
     {
@@ -5180,12 +5724,14 @@
       "type": "Feature",
       "id": "WASU CHEVRON",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/12/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "WASU CHEVRON",
         "Address": "4700 BROOKLYN AVE NE",
-        "Name": "WASU CHEVRON"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/12/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -5199,12 +5745,14 @@
       "type": "Feature",
       "id": "WHICH WICH SUPERIOR SANDWICHES",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "07/29/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "WHICH WICH SUPERIOR SANDWICHES",
         "Address": "4730 UNIVERSITY WAY NE #103",
-        "Name": "WHICH WICH SUPERIOR SANDWICHES"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "07/29/2014",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -5218,12 +5766,14 @@
       "type": "Feature",
       "id": "BOMBAY GRILL & LOUNGE",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "10/10/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "BOMBAY GRILL & LOUNGE",
         "Address": "4737 ROOSEVELT WAY NE",
-        "Name": "BOMBAY GRILL & LOUNGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/10/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -5237,12 +5787,14 @@
       "type": "Feature",
       "id": "DOMINO'S PIZZA",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "10/27/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "DOMINO'S PIZZA",
         "Address": "2724 NE 45TH ST",
-        "Name": "DOMINO'S PIZZA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/27/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -5256,12 +5808,14 @@
       "type": "Feature",
       "id": "STARBUCKS COFFEE COMPANY-KIOSK #8068",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "11/21/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "STARBUCKS COFFEE COMPANY-KIOSK #8068",
         "Address": "4800 SANDPOINT WAY NE",
-        "Name": "STARBUCKS COFFEE COMPANY-KIOSK #8068"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/21/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -5275,12 +5829,14 @@
       "type": "Feature",
       "id": "BARTELL DRUG CO #11",
       "properties": {
-        "Description": "Grocery - Risk Category I",
-        "Inspected": "06/02/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "BARTELL DRUG CO #11",
         "Address": "4344 UNIVERSITY WAY NE",
-        "Name": "BARTELL DRUG CO #11"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "06/02/2014",
+        "Description": "Grocery - Risk Category I"
       }
     },
     {
@@ -5294,12 +5850,14 @@
       "type": "Feature",
       "id": "BUBBLE TEA AND SANDWICH",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "05/05/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "BUBBLE TEA AND SANDWICH",
         "Address": "4553 UNIVERSITY WAY NE",
-        "Name": "BUBBLE TEA AND SANDWICH"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "05/05/2014",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -5313,12 +5871,14 @@
       "type": "Feature",
       "id": "CAMPUS CHRISTIAN MINISTRY",
       "properties": {
-        "Description": "Non-Profit Institution - Risk Category III",
-        "Inspected": "11/26/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "CAMPUS CHRISTIAN MINISTRY",
         "Address": "4525 19TH AVE NE",
-        "Name": "CAMPUS CHRISTIAN MINISTRY"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/26/2014",
+        "Description": "Non-Profit Institution - Risk Category III"
       }
     },
     {
@@ -5332,12 +5892,14 @@
       "type": "Feature",
       "id": "FRAN'S CHOCOLATE'S @ U VILLAGE",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category I",
-        "Inspected": "01/14/2014",
-        "Score": "0",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "FRAN'S CHOCOLATE'S @ U VILLAGE",
         "Address": "2626 NE UNIVERSITY VILLAGE ST",
-        "Name": "FRAN'S CHOCOLATE'S @ U VILLAGE"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "01/14/2014",
+        "Description": "Seating 0-12 - Risk Category I"
       }
     },
     {
@@ -5351,12 +5913,14 @@
       "type": "Feature",
       "id": "HOT DOGS IN SEATTLE",
       "properties": {
-        "Description": "Mobile Food Service - Risk Category I",
-        "Inspected": "10/25/2014",
-        "Score": "0",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "HOT DOGS IN SEATTLE",
         "Address": "4725 UNIVERSITY WAY",
-        "Name": "HOT DOGS IN SEATTLE"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "10/25/2014",
+        "Description": "Mobile Food Service - Risk Category I"
       }
     },
     {
@@ -5370,12 +5934,14 @@
       "type": "Feature",
       "id": "JUJUBEET",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/23/2014",
-        "Score": "N/A",
         "Result": "Unsatisfactory",
+        "marker-color": "#FF0000",
+        "Name": "JUJUBEET",
         "Address": "4915 25TH AVE NE",
-        "Name": "JUJUBEET"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/23/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -5389,12 +5955,14 @@
       "type": "Feature",
       "id": "KRAKEN BAR AND LOUNGE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "10/11/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "KRAKEN BAR AND LOUNGE",
         "Address": "5257 UNIVERSITY WAY NE",
-        "Name": "KRAKEN BAR AND LOUNGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "10/11/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -5408,12 +5976,14 @@
       "type": "Feature",
       "id": "MCDONALD ELEMENTARY SCHOOL",
       "properties": {
-        "Description": "School Kitchen",
-        "Inspected": "12/11/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "MCDONALD ELEMENTARY SCHOOL",
         "Address": "144 NE 54TH ST",
-        "Name": "MCDONALD ELEMENTARY SCHOOL"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "12/11/2014",
+        "Description": "School Kitchen"
       }
     },
     {
@@ -5427,12 +5997,14 @@
       "type": "Feature",
       "id": "MENCHIE'S FROZEN YOGURT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "08/04/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "MENCHIE'S FROZEN YOGURT",
         "Address": "4609 VILLAGE CT NE",
-        "Name": "MENCHIE'S FROZEN YOGURT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/04/2014",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -5446,12 +6018,14 @@
       "type": "Feature",
       "id": "METROPOLITAN MARKET  #156",
       "properties": {
-        "Description": "Bakery-Risk Category II",
-        "Inspected": "12/12/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "METROPOLITAN MARKET  #156",
         "Address": "5250 40TH AVE NE",
-        "Name": "METROPOLITAN MARKET  #156"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/12/2014",
+        "Description": "Bakery-Risk Category II"
       }
     },
     {
@@ -5465,12 +6039,14 @@
       "type": "Feature",
       "id": "MUDDY CUP, LLC",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category I",
-        "Inspected": "01/06/2014",
-        "Score": "0",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "MUDDY CUP, LLC",
         "Address": "266 NE 45TH ST",
-        "Name": "MUDDY CUP, LLC"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "01/06/2014",
+        "Description": "Seating 13-50 - Risk Category I"
       }
     },
     {
@@ -5484,12 +6060,14 @@
       "type": "Feature",
       "id": "PLAID PANTRIES INC",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category I",
-        "Inspected": "01/31/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "PLAID PANTRIES INC",
         "Address": "1000 NE 50TH ST",
-        "Name": "PLAID PANTRIES INC"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "01/31/2014",
+        "Description": "Seating 0-12 - Risk Category I"
       }
     },
     {
@@ -5503,12 +6081,14 @@
       "type": "Feature",
       "id": "QFC #807-UNIVERSITY VILLAGE",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "08/08/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "QFC #807-UNIVERSITY VILLAGE",
         "Address": "2746 NE 45TH ST",
-        "Name": "QFC #807-UNIVERSITY VILLAGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/08/2014",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     },
     {
@@ -5522,12 +6102,14 @@
       "type": "Feature",
       "id": "RANCHO BRAVO",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "12/27/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "RANCHO BRAVO",
         "Address": "211 NE 45TH ST",
-        "Name": "RANCHO BRAVO"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/27/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -5541,12 +6123,14 @@
       "type": "Feature",
       "id": "SOUND COFFEE",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "08/12/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "SOUND COFFEE",
         "Address": "4754 UNIVERSITY WAY NE",
-        "Name": "SOUND COFFEE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/12/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -5560,12 +6144,14 @@
       "type": "Feature",
       "id": "STARBUCKS COFFEE COMPANY-KIOSK #8068",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "11/21/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "STARBUCKS COFFEE COMPANY-KIOSK #8068",
         "Address": "4800 SANDPOINT WAY NE",
-        "Name": "STARBUCKS COFFEE COMPANY-KIOSK #8068"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/21/2014",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     },
     {
@@ -5579,12 +6165,14 @@
       "type": "Feature",
       "id": "STARBUCKS COFFEE #302",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category II",
-        "Inspected": "01/13/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "STARBUCKS COFFEE #302",
         "Address": "4634 26TH AVE NE",
-        "Name": "STARBUCKS COFFEE #302"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/13/2015",
+        "Description": "Seating 51-150 - Risk Category II"
       }
     },
     {
@@ -5598,12 +6186,14 @@
       "type": "Feature",
       "id": "STARBUCKS COFFEE #305",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "05/05/2014",
-        "Score": null,
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "STARBUCKS COFFEE #305",
         "Address": "4555 UNIVERSITY WAY NE",
-        "Name": "STARBUCKS COFFEE #305"
+        "marker-size": "small",
+        "Score": null,
+        "Inspected": "05/05/2014",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -5617,12 +6207,14 @@
       "type": "Feature",
       "id": "TEA REPUBLIK",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "08/05/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "TEA REPUBLIK",
         "Address": "4527 UNIVERSITY WAY NE",
-        "Name": "TEA REPUBLIK"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/05/2014",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -5636,12 +6228,14 @@
       "type": "Feature",
       "id": "TROPHY CUPCAKE",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "08/08/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "TROPHY CUPCAKE",
         "Address": "2612 NE VILLAGE LN",
-        "Name": "TROPHY CUPCAKE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/08/2014",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     },
     {
@@ -5655,12 +6249,14 @@
       "type": "Feature",
       "id": "UNIVERSITY MARKET",
       "properties": {
-        "Description": "Grocery - Risk Category I",
-        "Inspected": "03/20/2014",
-        "Score": "0",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "UNIVERSITY MARKET",
         "Address": "4106 BROOKLYN AVE NE",
-        "Name": "UNIVERSITY MARKET"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "03/20/2014",
+        "Description": "Grocery - Risk Category I"
       }
     },
     {
@@ -5674,12 +6270,14 @@
       "type": "Feature",
       "id": "YETI YOGURT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "02/05/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "YETI YOGURT",
         "Address": "4710 UNIVERSITY WAY NE",
-        "Name": "YETI YOGURT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "02/05/2014",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -5693,12 +6291,14 @@
       "type": "Feature",
       "id": "J'S MARKET",
       "properties": {
-        "Description": "Grocery - Risk Category I",
-        "Inspected": "04/28/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "J'S MARKET",
         "Address": "4747 UNIVERSITY WAY NE",
-        "Name": "J'S MARKET"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "04/28/2014",
+        "Description": "Grocery - Risk Category I"
       }
     },
     {
@@ -5712,12 +6312,14 @@
       "type": "Feature",
       "id": "DOLLAR TREE #4761",
       "properties": {
-        "Description": "Grocery - Risk Category I",
-        "Inspected": "01/17/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "DOLLAR TREE #4761",
         "Address": "4535 UNIVERSITY WAY NE",
-        "Name": "DOLLAR TREE #4761"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "01/17/2014",
+        "Description": "Grocery - Risk Category I"
       }
     },
     {
@@ -5731,12 +6333,14 @@
       "type": "Feature",
       "id": "STARBUCKS COFFEE #3394",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "08/04/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "STARBUCKS COFFEE #3394",
         "Address": "2650 NE 49TH ST",
-        "Name": "STARBUCKS COFFEE #3394"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/04/2014",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     },
     {
@@ -5750,12 +6354,14 @@
       "type": "Feature",
       "id": "ALPHA OMICRON PI",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "11/04/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "ALPHA OMICRON PI",
         "Address": "1906 NE 45TH ST",
-        "Name": "ALPHA OMICRON PI"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/04/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -5769,12 +6375,14 @@
       "type": "Feature",
       "id": "CHAMBERED NAUTILUS B &  B",
       "properties": {
-        "Description": "Bed and Breakfast - Risk Category I",
-        "Inspected": "02/04/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "CHAMBERED NAUTILUS B &  B",
         "Address": "5005 22ND AVE NE",
-        "Name": "CHAMBERED NAUTILUS B &  B"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "02/04/2014",
+        "Description": "Bed and Breakfast - Risk Category I"
       }
     },
     {
@@ -5788,12 +6396,14 @@
       "type": "Feature",
       "id": "EVOLUTION FRESH",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/17/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "EVOLUTION FRESH",
         "Address": "2620 NE UNIVERSITY VILLAGE ST",
-        "Name": "EVOLUTION FRESH"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/17/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -5807,12 +6417,14 @@
       "type": "Feature",
       "id": "GABA",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/07/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "GABA",
         "Address": "4507 UNIVERSITY WAY NE",
-        "Name": "GABA"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/07/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -5826,12 +6438,14 @@
       "type": "Feature",
       "id": "JAKE'S CORNER",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "12/16/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "JAKE'S CORNER",
         "Address": "1116 NE 47TH ST",
-        "Name": "JAKE'S CORNER"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/16/2014",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -5845,12 +6459,14 @@
       "type": "Feature",
       "id": "RANCHO BRAVO",
       "properties": {
-        "Description": "Commissary for Mobile FSE - Risk II&III",
-        "Inspected": "06/30/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "RANCHO BRAVO",
         "Address": "211 NE 45TH ST",
-        "Name": "RANCHO BRAVO"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "06/30/2014",
+        "Description": "Commissary for Mobile FSE - Risk II&III"
       }
     },
     {
@@ -5864,12 +6480,14 @@
       "type": "Feature",
       "id": "ST STEPHENS EPISCOPAL CHURCH",
       "properties": {
-        "Description": "Non-Profit Institution  - Risk Category I",
-        "Inspected": "02/25/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "ST STEPHENS EPISCOPAL CHURCH",
         "Address": "4805 NE 45TH ST",
-        "Name": "ST STEPHENS EPISCOPAL CHURCH"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "02/25/2014",
+        "Description": "Non-Profit Institution  - Risk Category I"
       }
     },
     {
@@ -5883,12 +6501,14 @@
       "type": "Feature",
       "id": "STARBUCKS UV3",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "08/08/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "STARBUCKS UV3",
         "Address": "2617 NE 46TH ST",
-        "Name": "STARBUCKS UV3"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "08/08/2014",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -5902,12 +6522,14 @@
       "type": "Feature",
       "id": "BARTELL DRUGS #31",
       "properties": {
-        "Description": "Grocery - Risk Category I",
-        "Inspected": "01/14/2014",
-        "Score": null,
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "BARTELL DRUGS #31",
         "Address": "2700 NE UNIVERSITY VILLAGE ST",
-        "Name": "BARTELL DRUGS #31"
+        "marker-size": "small",
+        "Score": null,
+        "Inspected": "01/14/2014",
+        "Description": "Grocery - Risk Category I"
       }
     },
     {
@@ -5921,12 +6543,14 @@
       "type": "Feature",
       "id": "A BURGER PLACE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "12/29/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "A BURGER PLACE",
         "Address": "4234 UNIVERSITY WAY NE",
-        "Name": "A BURGER PLACE"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "12/29/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -5940,12 +6564,14 @@
       "type": "Feature",
       "id": "CAFE DE L' AMOUR",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "11/13/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "CAFE DE L' AMOUR",
         "Address": "4730 UNIVERSITY WAY NE",
-        "Name": "CAFE DE L' AMOUR"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/13/2014",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -5959,12 +6585,14 @@
       "type": "Feature",
       "id": "CAFE ON THE AVE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "01/09/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "CAFE ON THE AVE",
         "Address": "4201 UNIVERSITY WAY NE",
-        "Name": "CAFE ON THE AVE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/09/2015",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -5978,12 +6606,14 @@
       "type": "Feature",
       "id": "CIAO AMORE",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "11/08/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "CIAO AMORE",
         "Address": "3626 NE 45TH ST STE 100",
-        "Name": "CIAO AMORE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/08/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -5997,12 +6627,14 @@
       "type": "Feature",
       "id": "DOG ON THE AVE (KC142)",
       "properties": {
-        "Description": "Commissary for Mobile FSE - Risk II&III",
-        "Inspected": "11/08/2014",
-        "Score": "0",
         "Result": "Incomplete",
+        "marker-color": "#808080",
+        "Name": "DOG ON THE AVE (KC142)",
         "Address": "4130 UNIVERSITY WAY NE",
-        "Name": "DOG ON THE AVE (KC142)"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "11/08/2014",
+        "Description": "Commissary for Mobile FSE - Risk II&III"
       }
     },
     {
@@ -6016,12 +6648,14 @@
       "type": "Feature",
       "id": "HERKIMER COFFEE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category I",
-        "Inspected": "01/28/2014",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "HERKIMER COFFEE",
         "Address": "5611 UNIVERSITY WAY NE",
-        "Name": "HERKIMER COFFEE"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "01/28/2014",
+        "Description": "Seating 13-50 - Risk Category I"
       }
     },
     {
@@ -6035,12 +6669,14 @@
       "type": "Feature",
       "id": "LIAMS",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/31/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "LIAMS",
         "Address": "2685 NE 46TH ST",
-        "Name": "LIAMS"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/31/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -6054,12 +6690,14 @@
       "type": "Feature",
       "id": "MILLIONAIRE HOT DOGS",
       "properties": {
-        "Description": "Commissary for Mobile FSE - Risk I",
-        "Inspected": "12/19/2014",
-        "Score": "0",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "MILLIONAIRE HOT DOGS",
         "Address": "4730 UNIVERSITY WAY NE",
-        "Name": "MILLIONAIRE HOT DOGS"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "12/19/2014",
+        "Description": "Commissary for Mobile FSE - Risk I"
       }
     },
     {
@@ -6073,12 +6711,14 @@
       "type": "Feature",
       "id": "MIOPOSTO NORTHWEST",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "02/04/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "MIOPOSTO NORTHWEST",
         "Address": "3426 NE 55TH ST",
-        "Name": "MIOPOSTO NORTHWEST"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "02/04/2015",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -6092,12 +6732,14 @@
       "type": "Feature",
       "id": "O DESSERT",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/13/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "O DESSERT",
         "Address": "4727 UNIVERSITY WAY NE",
-        "Name": "O DESSERT"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/13/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -6111,12 +6753,14 @@
       "type": "Feature",
       "id": "POTBELLY SANDWICH WORKS",
       "properties": {
-        "Description": "Seating 51-150 - Risk Category III",
-        "Inspected": "12/10/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "POTBELLY SANDWICH WORKS",
         "Address": "4520 UNIVERSITY WAY NE",
-        "Name": "POTBELLY SANDWICH WORKS"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/10/2014",
+        "Description": "Seating 51-150 - Risk Category III"
       }
     },
     {
@@ -6130,12 +6774,14 @@
       "type": "Feature",
       "id": "SHAWARMA KING",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category III",
-        "Inspected": "11/19/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SHAWARMA KING",
         "Address": "4337 UNIVERSITY WAY NE",
-        "Name": "SHAWARMA KING"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/19/2014",
+        "Description": "Seating 13-50 - Risk Category III"
       }
     },
     {
@@ -6149,12 +6795,14 @@
       "type": "Feature",
       "id": "STADIUM MARKET UNIVERSITY 76",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category III",
-        "Inspected": "07/31/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "STADIUM MARKET UNIVERSITY 76",
         "Address": "4359 ROOSEVELT WAY NE",
-        "Name": "STADIUM MARKET UNIVERSITY 76"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "07/31/2014",
+        "Description": "Seating 0-12 - Risk Category III"
       }
     },
     {
@@ -6168,12 +6816,14 @@
       "type": "Feature",
       "id": "STARBUCKS @ CHILDRENS",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "11/21/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "STARBUCKS @ CHILDRENS",
         "Address": "4500 40TH AVE NE",
-        "Name": "STARBUCKS @ CHILDRENS"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "11/21/2014",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     },
     {
@@ -6187,12 +6837,14 @@
       "type": "Feature",
       "id": "SWEETSIDE",
       "properties": {
-        "Description": "Bakery-Risk Category II",
-        "Inspected": "12/11/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "SWEETSIDE",
         "Address": "254 NE 45TH ST",
-        "Name": "SWEETSIDE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/11/2014",
+        "Description": "Bakery-Risk Category II"
       }
     },
     {
@@ -6206,12 +6858,14 @@
       "type": "Feature",
       "id": "TASTE OF INDIA LOUNGE",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "12/08/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "TASTE OF INDIA LOUNGE",
         "Address": "5507 ROOSEVELT WAY NE",
-        "Name": "TASTE OF INDIA LOUNGE"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/08/2014",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -6225,12 +6879,14 @@
       "type": "Feature",
       "id": "TULLY'S COFFEE #01010",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "09/23/2014",
-        "Score": "N/A",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "TULLY'S COFFEE #01010",
         "Address": "3042 NE 45TH ST",
-        "Name": "TULLY'S COFFEE #01010"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "09/23/2014",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -6244,12 +6900,14 @@
       "type": "Feature",
       "id": "TULLY'S COFFEE #01087",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "01/12/2015",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "TULLY'S COFFEE #01087",
         "Address": "4507 BROOKLYN AVE NE",
-        "Name": "TULLY'S COFFEE #01087"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "01/12/2015",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -6263,12 +6921,14 @@
       "type": "Feature",
       "id": "VENTOUX ROASTERS",
       "properties": {
-        "Description": "Seating 13-50 - Risk Category II",
-        "Inspected": "02/04/2015",
-        "Score": "0",
         "Result": "Satisfactory",
+        "marker-color": "#008000",
+        "Name": "VENTOUX ROASTERS",
         "Address": "3404 NE 55TH ST",
-        "Name": "VENTOUX ROASTERS"
+        "marker-size": "small",
+        "Score": "0",
+        "Inspected": "02/04/2015",
+        "Description": "Seating 13-50 - Risk Category II"
       }
     },
     {
@@ -6282,12 +6942,14 @@
       "type": "Feature",
       "id": "VIOLET SWEET SHOPPE LLC",
       "properties": {
-        "Description": "Seating 0-12 - Risk Category II",
-        "Inspected": "12/15/2014",
-        "Score": "N/A",
         "Result": "Complete",
+        "marker-color": "#808080",
+        "Name": "VIOLET SWEET SHOPPE LLC",
         "Address": "3612 NE 45TH ST",
-        "Name": "VIOLET SWEET SHOPPE LLC"
+        "marker-size": "small",
+        "Score": "N/A",
+        "Inspected": "12/15/2014",
+        "Description": "Seating 0-12 - Risk Category II"
       }
     }
   ]

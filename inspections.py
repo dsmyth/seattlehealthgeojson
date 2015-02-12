@@ -36,7 +36,13 @@ for business in obj['Business_Inspection_Violation']['Business']:
         else:
             score = inspection["Inspection_Score"]
             theDate = latestDate.strftime("%m/%d/%Y")
-            features.append(geojson.Feature(geometry=geojson.Point((lng, lat)), id=name, properties={"Name":name, "Address":address, "Description":description, "Inspected":theDate, "Result":result, "Score":score}))
+            if (result == "Satisfactory"):
+                color = "#008000"
+            elif (result == "Unsatisfactory"):
+                color = "#FF0000"
+            else:
+                color = "#808080"
+            features.append(geojson.Feature(geometry=geojson.Point((lng, lat)), id=name, properties={"Name":name, "Address":address, "Description":description, "Inspected":theDate, "Result":result, "Score":score, "marker-size": "small", "marker-color": color}))
 
 fc = geojson.FeatureCollection(features)
 
